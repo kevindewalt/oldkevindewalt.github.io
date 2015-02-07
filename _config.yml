@@ -7,11 +7,12 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Kevin Dewalt
+title:            Kevin Dewalt on SaaS
 twitter_url:       <a href="https://twitter.com/kevindewlat" target="_blank">@kevindewalt</a>.
-tagline:          'Kevin Dewalt''s blog'
+tagline:          'concierge onboarding for SaaS'
 headshot:         '/images/headshot.jpg'
-description:      'Founder <a href="http://try.sohelpful.me" target="_blank">SoHelpful</a>, <a href="https://angel.co/kevindewalt">angel investor</a>. <br> <br> Working on <strong>sohelpful.io</strong> to help fellow SaaS founders ++conversions and --churn with <strong>concierge onboarding</strong>. '
+description:      'Founder <a href="http://try.sohelpful.me" target="_blank">SoHelpful</a>, <a href="https://angel.co/kevindewalt" target="_blank">angel investor</a>.'
+sub_description:  'Here I write about what I''m learning in the <a href="/sohelpfulio">sohelpful.io</a> project - how SaaS product founders can ++conversions and --churn with concierge onboarding.'
 url:              http://kevindewalt.github.io
 baseurl:          /
 
@@ -26,3 +27,6 @@ version:          2.1.0
 
 github:
   repo:           http://kevindewalt.github.io
+
+sass:
+    sass_dir: _sass
