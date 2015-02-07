@@ -7,15 +7,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Kevin Dewalt
+twitter_url:       <a href="https://twitter.com/kevindewlat" target="_blank">@kevindewalt</a>.
+tagline:          'Kevin Dewalt''s blog'
+headshot:         '/images/headshot.jpg'
+description:      'Founder <a href="http://try.sohelpful.me" target="_blank">SoHelpful</a>, <a href="https://angel.co/kevindewalt">angel investor</a>. <br> <br> Working on <strong>sohelpful.io</strong> to help fellow SaaS founders ++conversions and --churn with <strong>concierge onboarding</strong>. '
+url:              http://kevindewalt.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Kevin Dewalt'
+  url:            https://twitter.com/kevindewalt
 
 paginate:         5
 
@@ -23,4 +25,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           http://kevindewalt.github.io
