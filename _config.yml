@@ -11,8 +11,8 @@ title:            Kevin Dewalt on SaaS
 twitter_url:       <a href="https://twitter.com/kevindewlat" target="_blank">@kevindewalt</a>.
 tagline:          'concierge onboarding for SaaS'
 headshot:         '/images/headshot.jpg'
-description:      'Founder <a href="http://try.sohelpful.me" target="_blank">SoHelpful</a>, <a href="https://angel.co/kevindewalt" target="_blank">angel investor</a>.'
-sub_description:  'Here I write about what I''m learning in the <a href="/sohelpfulio">sohelpful.io</a> project - how SaaS product founders can ++conversions and --churn with concierge onboarding.'
+description:      'Founder <a href="http://try.sohelpful.me" target="_blank">SoHelpful</a>. <a href="https://angel.co/kevindewalt" target="_blank">Angel investor</a>.'
+sub_description:  'Here I write about SaaS products and concierge onboarding - everything I''m learning in the <a href="/sohelpfulio">sohelpful.io</a> project.'
 url:              http://kevindewalt.github.io
 baseurl:          /
 image_url:        /images
