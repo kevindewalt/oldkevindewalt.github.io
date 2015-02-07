@@ -15,6 +15,7 @@ description:      'Founder <a href="http://try.sohelpful.me" target="_blank">SoH
 sub_description:  'Here I write about what I''m learning in the <a href="/sohelpfulio">sohelpful.io</a> project - how SaaS product founders can ++conversions and --churn with concierge onboarding.'
 url:              http://kevindewalt.github.io
 baseurl:          /
+image_url:        /images
 
 author:
   name:           'Kevin Dewalt'
