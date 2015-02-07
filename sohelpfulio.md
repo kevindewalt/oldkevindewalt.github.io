@@ -1,51 +1,52 @@
 ---
 layout: page
-title: sohelpful.io
+title: the sohelpful.io project
 ---
 
-<p class="message">
-  Hey there SaaS product founder! Would like like to learn how to increase conversions and reduct churn?<br><br>
- (well who wouldn't, right?)
-</p>
+{% include signup_form.md %}
 
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//sohelpful.us7.list-manage.com/subscribe/post?u=e7889016118078dfdf0ab1cbc&amp;id=f445ba63fd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Get smarter. More conversions + lower churn = higher SasS MRR.</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_e7889016118078dfdf0ab1cbc_f445ba63fd" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Get updates" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
+For the past 2 years I've been trying to get on a Skype call or Hangout with every new customer for my SaaS product, SoHelpful. I learned a ton from every conversation and the people I spoke to became long-term loyal customers &amp; evangelists.
 
-<!--End mc_embed_signup-->
+I thought it was just me.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I figured I *had* to get on a call with new customers because my onboarding wasn't great &amp; new customers didn't know how to use SoHelpful in their workflow. After all, REAL SaaS products have smooth onboarding, beautiful UIs and customers instantly know how to use them, right?
 
-There are currently two themes built on Poole:
+Actually ... no. I started talking to fellow SaaS founders and learned that they experienced higher conversions and lower churn when they got new customers on the phone. There's even a name for it: **concierge onboarding**.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+We discovered that many of our SoHelpful customers were also using SoHelpful to do concierge onboarding with *their* customers.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+So Joey, Chiara and I (the SoHelpful team) decided that we needed to learn more about it - and we created the sohelpful.io project to do just that.
 
-## Setup
+## What we're doing on the sohelpful.io project
 
-Some fun facts about the setup of this project include:
+####We're aggressively doing concierge onboarding  ourselves
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+We've made concierge onboarding the cornerstone of our sales process. We try to qualify all of our new leads and customers and get on the phone with the people most likely to become long-term customers.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+####We're building our own tool to do it
+
+Right now concerige onboarding is a pain. We have to search through multiple systems and tools to learn about our customers. We track the onboarding with Streak CRM and send emails with Gmail, Helpscout, and Customer.io. We manually setup alerts and follow-ups. To be honest - it sucks.
+
+So we've started building our own workflow tool to do concierge onboarding. We will integrate with Stripe, our app, and do the scheduling with SoHelpful.
+
+We may release a product called sohelpful.io but for the moment it is just our own tool.
+
+####We're continuing to interview (and train) other SaaS companies
+
+In the past 6 weeks I've interviewed dozens of SaaS companies (mostly founders or those who head up customer success) about onboarding. Many have asked us for follow-on training on to do concierge onboarding.
+
+We've dozens of case studies and now see patterns for what does and doesn't work.
+
+
+##And I'll write about concierge onboarding to answer your questions
+
+I know what you're thinking:
+
++ Doesn't this take too much time? How does it scale?
++ How do I get customers on the phone?
++ What do I talk about?
++ Sure, I can do this as the founder - but how do I hire people to do it?
+
+These are the questions most SaaS founders ask me - I have good answers to them and many more.
 
 Thanks for reading!
