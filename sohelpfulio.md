@@ -1,6 +1,6 @@
 ---
 layout: page
-title: the sohelpful.io project
+title: sohelpful.io project
 ---
 
 {% include signup_form.md %}
