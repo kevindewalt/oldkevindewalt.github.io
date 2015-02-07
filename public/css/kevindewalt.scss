@@ -1,16 +1,39 @@
 ---
 ---
 
+//media queries
+
+
+// For smartphones and personal (small) mobile devices. Done for consistency with hyde.css
+@mixin mq-phone {
+  @media  (max-width: 48em) {
+    @content;
+  }
+}
+
 // start content
+
+.no-phone {
+
+  @include mq-phone {
+    display: none;
+  }
+}
 
 h2 {
   margin-top: 2rem;
 }
 
-.copyright {
-  font-size: .7em;
+// sidebar
+
+#sidebar-details {
+
+  .headshot {
+    max-width: 50%;
+  }
+
 }
 
-.headshot {
-  max-width: 50%;
-}
+
+
+

@@ -6,10 +6,12 @@
           {{ site.title }}
         </a>
       </h2>
-      <p>{{ site.twitter_url}}</p>
-      <img class="headshot" src= {{ site.headshot}} >
-      <p class="lead">{{ site.description }}</p>
-      <p>{{ site.sub_description }}</p>
+      <div class="no-phone" id="sidebar-details">
+        <p>{{ site.twitter_url}}</p>
+        <img class="headshot" src= {{ site.headshot}} >
+        <p class="lead">{{ site.description }}</p>
+        <p>{{ site.sub_description }}</p>
+      </div>
     </div>
 
     <nav class="sidebar-nav">
@@ -31,6 +33,6 @@
 
       <a class="sidebar-nav-item" href="http://kevindewalt.com" target="_blank">My other blog</a>
     </nav>
-    <small class="copyright">&copy; {{ site.time | date: '%Y' }}. All rights reserved, ManyWheels Inc.</small>
+    <small class="copyright no-phone">&copy; {{ site.time | date: '%Y' }}. All rights reserved, ManyWheels Inc.</small>
   </div>
 </div>
