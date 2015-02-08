@@ -9,6 +9,12 @@ layout: default
   {{ content }}
 </div>
 
+{% if page.photo_credit %}
+<div class="photo-credit">
+  Photo credit: {{ page.photo_credit }}
+</div>
+{% endif %}
+
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
