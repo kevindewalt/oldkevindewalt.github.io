@@ -2,7 +2,7 @@
 layout: post
 title: "Concierge Onboarding is Continuous Customer Development"
 date: 2015-02-07T15:33:32+08:00
-post_image: train.jpg
+post_image: train_small.jpg
 keywords: "sohelpful.io, sohelpful.me"
 ---
 <p>Do you run a SAAS subscription app (a website that charges a recurring fee, e.g. MailChimp )? You already know a good onboarding process is critical for getting customers to use (and pay for) your product. Many successful SAAS companies are now using “concierge” onboarding.</p>
