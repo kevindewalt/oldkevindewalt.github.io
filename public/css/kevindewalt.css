@@ -4,6 +4,12 @@
 
 h2 {
   margin-top: 2rem; }
+  @media (max-width: 48em) {
+    h2 {
+      font-size: 1.3rem; } }
+
+.content {
+  padding-top: 3rem; }
 
 @media (max-width: 48em) {
   .post-title {
@@ -13,7 +19,7 @@ h2 {
   font-size: .7rem; }
 
 .sidebar {
-  padding: .8rem 1rem; }
+  padding: .5rem 1rem; }
 
 #sidebar-details .headshot {
   max-width: 50%; }

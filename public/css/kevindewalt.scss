@@ -19,6 +19,15 @@
 
 h2 {
   margin-top: 2rem;
+
+  @include mq-phone {
+    font-size: 1.3rem;
+  }
+
+}
+
+.content {
+  padding-top: 3rem;
 }
 
 .post-title {
@@ -34,7 +43,7 @@ h2 {
 // sidebar
 
 .sidebar {
-  padding: .8rem 1rem;
+  padding: .5rem 1rem;
 }
 
 #sidebar-details {
