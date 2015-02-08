@@ -1,0 +1,9 @@
+@media (max-width: 48em) {
+  .no-phone {
+    display: none; } }
+
+h2 {
+  margin-top: 2rem; }
+
+#sidebar-details .headshot {
+  max-width: 50%; }
