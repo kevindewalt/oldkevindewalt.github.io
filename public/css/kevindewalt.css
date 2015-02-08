@@ -5,8 +5,15 @@
 h2 {
   margin-top: 2rem; }
 
+@media (max-width: 48em) {
+  .post-title {
+    font-size: 1.8rem; } }
+
 .photo-credit {
   font-size: .7rem; }
+
+.sidebar {
+  padding: .8rem 1rem; }
 
 #sidebar-details .headshot {
   max-width: 50%; }

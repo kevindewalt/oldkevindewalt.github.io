@@ -21,11 +21,21 @@ h2 {
   margin-top: 2rem;
 }
 
+.post-title {
+  @include mq-phone {
+    font-size: 1.8rem;
+  }
+}
+
 .photo-credit {
   font-size: .7rem;
 }
 
 // sidebar
+
+.sidebar {
+  padding: .8rem 1rem;
+}
 
 #sidebar-details {
 
