@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Kevin Dewalt on SaaS
-twitter_url:       <a href="https://twitter.com/kevindewlat" target="_blank">@kevindewalt</a>.
+twitter_url:       <a href="https://twitter.com/kevindewalt" target="_blank">@kevindewalt</a>.
 tagline:          'Concierge onboarding and other strategies to increase MRR for SaaS founders'
 headshot:         '/images/headshot.jpg'
 description:      'Founder <a href="http://try.sohelpful.me" target="_blank">SoHelpful</a>. <a href="https://angel.co/kevindewalt" target="_blank">Angel investor</a>.'
