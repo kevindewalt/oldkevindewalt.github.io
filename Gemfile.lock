@@ -99,4 +99,5 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  jekyll-redirect-from
   octopress (~> 3.0.0.rc)

@@ -1,5 +1,5 @@
 <p class="message">
-  Hey there SaaS product founder! Would like like to learn how to increase conversions and reduct churn with concierge onboarding?<br><br>
+  Hey there SaaS product founder! Would you like to learn how to increase conversions and reduce churn with concierge onboarding?<br><br>
  (well who wouldn't, right?)
 </p>
 
