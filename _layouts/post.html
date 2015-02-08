@@ -7,7 +7,11 @@ layout: default
   <span class="post-date">{{ page.date | date_to_string }}</span>
   <img class="post-image" src = "{{site.image_url}}/{{page.post_image}}">
   {{ content }}
+  <div id="twitter-plug">
+    {% include twitter_plug.html %}
+  </div>
 </div>
+
 
 {% if page.photo_credit %}
 <div class="photo-credit">
