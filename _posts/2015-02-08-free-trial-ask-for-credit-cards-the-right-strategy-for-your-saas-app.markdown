@@ -1,4 +1,5 @@
 ---
+permalink: /2015/02/08/free-trial-ask-for-credit-cards-the-right-strategy-for-your-saas-app
 layout: post
 title: "Free trial? Ask for credit cards? The right strategy for your SaaS app"
 date: 2015-02-08T11:48:08+08:00
