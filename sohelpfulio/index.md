@@ -1,9 +1,12 @@
 ---
+redirect_from: /sohelpfulio/index.html
 layout: page
 title: sohelpful.io project
 ---
 
-{% include signup_form.md %}
+{% include signup_form.html %}
+
+## About Concierge Onboarding for SaaS Startups
 
 For the past 2 years I've been trying to get on a Skype call or Hangout with every new customer for my SaaS product, SoHelpful. I learned a ton from every conversation and the people I spoke to became long-term loyal customers &amp; evangelists.
 
