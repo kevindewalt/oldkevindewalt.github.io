@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How To Do Really Simple Customer Onboarding"
+date: 2015-03-04T17:31:09+08:00
 post_image: burn.jpg
 keywords: ""
 author: "Chiara Cokieng"
