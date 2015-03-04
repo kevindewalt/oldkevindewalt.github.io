@@ -48,10 +48,22 @@ h2 {
 
 #sidebar-details {
 
-  .headshot {
-    max-width: 50%;
+  .twitterurls {
+    font-size: 18px;
+    margin-bottom: 10px;
   }
 
+  .headshot {
+    max-width: 45%;
+    float: left;
+    margin: 2%;
+  }
+
+}
+
+.clear {
+  clear: both;
+  margin-bottom: 20px;
 }
 
 .copyright {

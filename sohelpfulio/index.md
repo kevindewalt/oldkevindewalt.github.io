@@ -8,7 +8,7 @@ title: sohelpful.io project
 
 ## About Concierge Onboarding for SaaS Startups
 
-For the past 2 years I've been trying to get on a Skype call or Hangout with every new customer for my SaaS product, SoHelpful. I learned a ton from every conversation and the people I spoke to became long-term loyal customers &amp; evangelists.
+Hi, I'm [Kevin Dewalt](http://kevindewalt.com/about). For the past 2 years I've been trying to get on a Skype call or Hangout with every new customer for my SaaS product, [SoHelpful](http://try.sohelpful.me). I learned a ton from every conversation and the people I spoke to became long-term loyal customers &amp; evangelists.
 
 I thought it was just me.
 
@@ -36,12 +36,12 @@ We may release a product called sohelpful.io but for the moment it is just our o
 
 ####We're continuing to interview (and train) other SaaS companies
 
-In the past 6 weeks I've interviewed dozens of SaaS companies (mostly founders or those who head up customer success) about onboarding. Many have asked us for follow-on training on to do concierge onboarding.
+In the past 6 months we've interviewed dozens of SaaS companies (mostly founders or those who head up customer success) about onboarding. Many have asked us for follow-on training on to do concierge onboarding.
 
 We've dozens of case studies and now see patterns for what does and doesn't work.
 
 
-##And I'll write about concierge onboarding to answer your questions
+##And we'll write about concierge onboarding to answer your questions
 
 I know what you're thinking:
 
@@ -50,6 +50,6 @@ I know what you're thinking:
 + What do I talk about?
 + Sure, I can do this as the founder - but how do I hire people to do it?
 
-These are the questions most SaaS founders ask me - I have good answers to them and many more.
+These are the questions most SaaS founders ask us - we have good answers to them and many more.
 
 Thanks for reading!

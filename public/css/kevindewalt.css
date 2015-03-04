@@ -21,8 +21,17 @@ h2 {
 .sidebar {
   padding: .5rem 1rem; }
 
+#sidebar-details .twitterurls {
+  font-size: 18px;
+  margin-bottom: 10px; }
 #sidebar-details .headshot {
-  max-width: 50%; }
+  max-width: 45%;
+  float: left;
+  margin: 2%; }
+
+.clear {
+  clear: both;
+  margin-bottom: 20px; }
 
 .copyright {
   font-size: .6rem; }

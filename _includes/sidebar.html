@@ -7,8 +7,12 @@
         </a>
       </h2>
       <div class="no-phone" id="sidebar-details">
-        <p>{{ site.twitter_url}}</p>
-        <img class="headshot" src= {{ site.headshot}} >
+        <div class="twitterurls">{{ site.twitter_url}}</div>
+        <div class="headshots">
+          <img class="headshot" src= {{ site.headshot}} >
+          <img class="headshot" src= {{ site.headshot2}} >
+        </div>
+        <div class="clear"></div>
         <p class="lead">{{ site.description }}</p>
         <p>{{ site.sub_description }}</p>
       </div>
@@ -31,7 +35,6 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="http://kevindewalt.com" target="_blank">My other blog</a>
     </nav>
     <small class="copyright no-phone">&copy; {{ site.time | date: '%Y' }}. All rights reserved, ManyWheels Inc.</small>
   </div>
