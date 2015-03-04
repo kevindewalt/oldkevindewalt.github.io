@@ -1,8 +1,8 @@
 ---
 layout: {{ layout }}
 title: {{ title }}
-date: {{ date }}
 post_image: image_name.jpg
 keywords: ""
+author: ""
 photo_credit: <a href="">Change Me</a>
 ---
