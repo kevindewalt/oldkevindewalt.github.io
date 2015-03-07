@@ -6,7 +6,7 @@ post_image: coach.jpg
 keywords: ""
 photo_credit: <a href="https://www.flickr.com/photos/axlape/">Kim Paulin</a>
 ---
-Tomasz Tunguz's (VC at Redpoint) blog is a must-read for SaaS startup founders. His most recent post [Challenging Your Customers During Your SaaS Startup's Sales Process](http://tomtunguz.com/) is no exception.
+Tomasz Tunguz's (VC at Redpoint) blog is a must-read for SaaS startup founders. His most recent post [Challenging Your Customers During Your SaaS Startup's Sales Process](http://tomtunguz.com/challenger-sales-process/) is no exception.
 
 He references a 2009 Corporate Executive Board study on effective enterprise sales teams. Conclusion? The most effective sales person is a "Challenger" - someone who controls the sales process by teaching the potential customer what they need to do to achieve their goals.  
 
