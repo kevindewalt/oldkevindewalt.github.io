@@ -4,5 +4,6 @@ layout: default
 
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
+  {% if page.page_image %} <img class="post-image" src = "{{site.image_url}}/{{page.page_image}}"> {% endif %}
   {{ content }}
 </div>
