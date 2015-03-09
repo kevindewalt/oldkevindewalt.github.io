@@ -2,7 +2,7 @@
 redirect_from: /sohelpfulio/index.html
 layout: page
 title: About Things That Don't Scale
-page_image: credit-card.jpg
+page_image: <iframe src="https://www.google.com/maps/d/embed?mid=zxgWqnJu7aq4.kblBlKtB3_pc" width="640" height="480"></iframe>
 ---
 
 > The most common unscalable thing founders have to do at the start is to recruit users manually. Nearly all startups have to. You can't wait for users to come to you. You have to go out and get them.
@@ -67,9 +67,7 @@ We think it’s time we do something about it.
 
 ##Join our journey across the US to discover true stories of how successful startups actually got there
 
-From March to April 2015, I am going to travel all over the US. From San Francisco to Boulder to New York.
-
-<iframe src="https://www.google.com/maps/d/embed?mid=zxgWqnJu7aq4.kblBlKtB3_pc" width="640" height="480"></iframe>
+From March to April 2015, I am going to travel all over the US. From San Francisco to Boulder to New York...
 
 And I'm going to get startups to answer this question:
 
