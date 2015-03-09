@@ -2,8 +2,8 @@
 redirect_from: /sohelpfulio/index.html
 layout: page
 title: About Things That Don't Scale
-page_image: <iframe src="https://www.google.com/maps/d/embed?mid=zxgWqnJu7aq4.kblBlKtB3_pc" width="640" height="480"></iframe>
 ---
+<iframe src="https://www.google.com/maps/d/embed?mid=zxgWqnJu7aq4.kblBlKtB3_pc" width="640" height="480"></iframe>
 
 > The most common unscalable thing founders have to do at the start is to recruit users manually. Nearly all startups have to. You can't wait for users to come to you. You have to go out and get them.
 
