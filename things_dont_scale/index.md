@@ -1,7 +1,7 @@
 ---
 redirect_from: /sohelpfulio/index.html
 layout: page
-title: Things That Don't Scale
+title: About Things That Don't Scale
 page_image: credit-card.jpg
 ---
 
@@ -9,13 +9,13 @@ page_image: credit-card.jpg
 
 > Paul Graham, [Do Things That Don't Scale](http://paulgraham.com/ds.html)
 
-## There’s a myth that almost killed our startup, SoHelpful.me**
+## There’s a myth that almost killed our startup, SoHelpful.me
 
 And it goes like this:
 
 >To create successful users, make your customer onboarding as fast, short, and painless, as possible.
 
-It seems to make sense… Unfortunately, it also does not work.
+It seems to make sense… It also does not work.
 
 We were successfully signing up new customers. Even getting them to pay upfront. We’ve cracked the nut on the hardest part!!
 
@@ -37,19 +37,13 @@ Actually, no.
 
 ##Doing things that don’t scale: How successful startups create customers that love them
 
-**Pinterest** could’ve looked at heat maps and analytics. 
+**Pinterest** could’ve looked at heat maps and analytics. Instead, they went to cafes and asked random people to try their website. 
 
-Instead, they went to cafes and asked random people to try their website. 
+When Patrick McKenzie emailed **Stripe**, they could’ve replied with a “Thanks for the email. Please see our FAQ.“ Instead, cofounder Patrick Collisson not only diagnosed the problem, but emailed to say he already fixed it for McKenzie.
 
-When Patrick McKenzie emailed **Stripe**, they could’ve replied with a “Thanks for the email. Please see our FAQ.“
+**AirBNB** could’ve wrote an email autoresponder explaining how to write an effective listing. Instead, Brian and Joe went door to door in NYC and took professional photos of their users’ houses.
 
-Instead, cofounder Patrick Collisson not only diagnosed the problem, but emailed to say he already fixed it for McKenzie.
-
-**AirBNB** could’ve wrote an email autoresponder explaining how to write an effective listing.
-
-Instead, Brian and Joe went door to door in NYC and took professional photos of their users’ houses.
-
-##Why doesn’t anybody talk about this?
+##Why isn't anybody talking about this?
 
 Selling is hard, but it's important. Everybody talks about it. Knowing this, we work extra hard to get customers to pay for our products.
 
@@ -57,34 +51,36 @@ Selling is hard, but it's important. Everybody talks about it. Knowing this, we 
 
 Getting customers to not only use your product, but get value from -- and pay for -- it month over month.
 
-After all, every renewal is a new sale.
+In other words, a good onboarding process.
 
-This is KEY to SAAS but nobody talks about it.
+Problem is, creating and optimizing an automated onboarding process takes a long time. YEARS. But nobody talks about how hard it actually is.
 
 We see successful startups and their sleek customer onboarding flows and think we should copy it.
 
-Sure, it’s how they’re scaling their startups. but that’s now how they got started.
+But the fact is, it took YEARS to get to this point.
 
-**Few startups realize how critical this is, and it’s killing us.**
+Sure, it’s how they’re scaling their startups... But when they first launched, they did things that do not scale.
+
+**Few startups realize this, and it’s killing us.**
 
 We think it’s time we do something about it.
 
 ##Join our journey across the US to discover true stories of how successful startups actually got there
 
-From March to April 2015, Chiara is going to travel from San Francisco to Boulder to New York.
+From March to April 2015, I am going to travel all over the US. From San Francisco to Boulder to New York.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=zxgWqnJu7aq4.kblBlKtB3_pc" width="640" height="480"></iframe>
 
-And she’s going to get startups to answer this question:
+And I'm going to get startups to answer this question:
 
 >What did you have to do to get customers to start using your product?
 
-We're also going to find out:
+I'm also going to ask them:
 
 + What their customer onboarding process looked like when they first launched
 + Why customers weren't using their product
 + What ideas they tried, what worked, what didn't, and mistakes they made
-+ How they dealt with the fact that these activities were not scalable?
++ How they dealt with the fact that these activities were not scalable.
 + When is it time to move on?
 + Will it still work if someone does this today?
 
