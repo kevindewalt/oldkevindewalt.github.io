@@ -6,21 +6,24 @@ keywords: ""
 author: "Chiara Cokieng"
 photo_credit: <a href="https://twitter.com/robwalling">@robwalling</a>
 ---
+Rob Walling is the author of A Developer’s Guide to Launching a Startup. He co-hosts Startups for the Rest of Us, a popular startup podcast I really enjoy, hosts MicroConf, a self-funded startup conference. He also owns HitTail and Drip.
+
 When we started the [Things That Don’t Scale project](http://blog.sohelpful.io/things_dont_scale/index.html), the first person I thought of interviewing was Rob Walling, the founder of [Drip](https://www.getdrip.com/).
 
-Drip is an app that helps you do marketing automation. It’s excellent -- easy to use and gets you results out of the box… But what stands out for me? Is what the software does not do.
+Anyway, Drip is an app that helps you do marketing automation to increase conversion for startups and software companies. It’s excellent -- easy to use and gets you results out of the box… But what stands out for me? Is what the software does not do.
 
 As part of Drip’s onboarding, Rob and his team hand-craft a custom email sequence for their customers. For free.
 
 This, in my experience, is what keeps people from reaping the promises of marketing automation. It’s also the hardest part. The one that cannot be automated.
 
-In this interview…
+In this interview, Rob talks to us about:
 
-Rob talks to us about why it makes sense for them to create these sequences for free and the shockingly short time it takes them.
-
-He also shares his simple hack for figuring out your app’s Minimum Path to Awesome, his thoughts on why everyone should do Concierge Onboarding at first, and how to build that out to an automated, scalable process.
-
-Finally, Rob advises us on how to lower churn and increase your conversion from free trial to paid.
++ Why it makes sense to create these sequences for free
++ The shockingly short time it takes for them to provide the concierge service
++ His simple hack for figuring out your app’s Minimum Path to Awesome
++ Thoughts on why everyone should do Concierge Onboarding at first, and
++ How to build that out to an automated, scalable process
++ How to lower churn and increase your conversion from free trial to paid
 
 If you’re trying to figure out your onboarding to increase conversions and reduce churn, this interview with Rob will be overwhelmingly useful to you.
 
@@ -33,7 +36,7 @@ At what point during the process does your trial user get their rush?
 When they realize,
 >“Holy shit. This is really cool?”
 
-For [HitTail](https://www.hittail.com/), a keyword tool, that Minimum Path to Awesome or MPA is as soon as they see keyword suggestions. So how can I get them there as easily as possible? For HtitTail, it’s getting them to link to Google Webmasters as soon as possible.
+For [HitTail](https://www.hittail.com/), a keyword tool, that Minimum Path to Awesome or MPA is as soon as they see keyword suggestions. So how can I get them there as easily as possible? For HitTail, it’s getting them to link to Google Webmasters as soon as possible.
 
 For [Drip](https://www.getdrip.com/), a marketing automation tool, I thought the MPA is someone from their email list purchasing something. But what I’ve learned from talking to a lot of customers is that it’s getting their first subscriber. That’s a big rush.
 
