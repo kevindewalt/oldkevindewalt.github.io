@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Discovering the Minimum Path to Awesome with Rob Walling"
+date: 2015-03-26T13:05:59-04:00
 post_image: rob-walling.png
 keywords: ""
 author: "Chiara Cokieng"
 photo_credit: <a href="https://twitter.com/robwalling">@robwalling</a>
 ---
-Rob Walling is the author of A Developer’s Guide to Launching a Startup. He co-hosts Startups for the Rest of Us, a popular startup podcast I really enjoy, hosts MicroConf, a self-funded startup conference. He also owns HitTail and Drip.
+Rob Walling is the author of A Developer’s Guide to Launching a Startup. He co-hosts *Startups for the Rest of Us*, a popular startup podcast I really enjoy, hosts MicroConf, a self-funded startup conference. He also owns HitTail and Drip.
 
 When we started the [Things That Don’t Scale project](http://blog.sohelpful.io/things_dont_scale/index.html), the first person I thought of interviewing was Rob Walling, the founder of [Drip](https://www.getdrip.com/).
 
@@ -44,7 +45,7 @@ For [Drip](https://www.getdrip.com/), a marketing automation tool, I thought the
 
 Well, what is the headline of the landing page?
 
-Because that headline is the value I am providing to customers. You want to deliver that value as soon as possible. To discover it, you can do it for your first customers first. And as soon as you have your first case study, you can use that specific result to communicate the value they’ll get. 
+Because that headline is the value I am providing to customers. You want to deliver that value as soon as possible. To discover it, you can do it for your first customers first. And as soon as you have your first case study, you can use that specific result to communicate the value they’ll get.
 
 So do it for your first customers, document that process, then break it down into steps. That’s your Minimum Path to Awesome.
 
@@ -58,7 +59,7 @@ If you only have one step, ask, can you do this for them?
 
 For Drip, we installed the Javascript on their website. Literally, our support guy did it for up to 500 customers.
 
-We also help them build an email course. And we do that for free as long as someone has some content. Even if they don’t, we hire a professional copywriter to do it for them. And we do it at cost. We don’t mark it up. I don’t want to profit there. 
+We also help them build an email course. And we do that for free as long as someone has some content. Even if they don’t, we hire a professional copywriter to do it for them. And we do it at cost. We don’t mark it up. I don’t want to profit there.
 
 I want customers to stick around.
 
@@ -130,7 +131,7 @@ We also let them know about new features. We release a couple every week. Hopefu
 
 ##Advice on increasing conversions and reducing churn
 
-**To increase conversions, send emails to your customers based on what they’ve done in your app.** Most email marketing, including Drip, has tagging built in. 
+**To increase conversions, send emails to your customers based on what they’ve done in your app.** Most email marketing, including Drip, has tagging built in.
 
 Reach out to your most engaged people and confirm they are going to convert. Send a broadcast to your lower engaged people and ask why they’re not using it.
 
