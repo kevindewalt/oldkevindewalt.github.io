@@ -8,6 +8,10 @@ photo_credit: <a href="https://www.flickr.com/photos/90371939@N00/">Nathan</a>
 ---
 >Does this stuff actually work??
 
+<!--what is "this stuff"? Maybe "Is this really for me?" I think you start out with a critical perspective here that you can carry through to the examples. These emails don't put themselves in the shoes of a real customer - just some fantasy person they have dreamed up who is thrilled to have discovered our wonderful product. You do that a bit in the examples but I think you can drive home the point more forcefully - like what you personally are *really* thinking when you get them. -->
+
+<!--Also I think you can say more about the company with out giving away names: "this is from a venture-backed Techstars startup (or whatever)" -->
+
 Is what my brain demands every time I get a welcome email after signing up for an app.
 
 This onboarding email is extremely important to us.
@@ -16,7 +20,7 @@ How well we do it determines if the customer ever uses the app and how long she 
 
 Josh Elman, who did user onboarding for Twitter and LinkedIn, sums it up well when he said,
 
->Most services are like, "Awesome I’m gonna make the sign up flow as painless as possible and just jump you right into the product." 
+>Most services are like, "Awesome I’m gonna make the sign up flow as painless as possible and just jump you right into the product."
 
 >That’s a terrible idea. Right after somebody signs up for your service is **your moment**. You have more attention than you ever will have again from that user to try to teach them what your product is really about.”
 --Josh Elman on [The Secrets to Driving Massive User Growth](https://www.youtube.com/watch?v=AaMqCWOfA1o)
@@ -33,8 +37,12 @@ By the end of this post, you'll learn how to avoid wasting the critical moment t
 
 *These are real welcome emails, but with people and apps's names changed.*
 
-###The Annoying One
 
+<!--As I skim through the text I have a hard time separating the emails from each other. Maybe say ... EXAMPLE 1 with more space.-->
+<br>
+
+##Bad Welcome Email 1: "The Annoying One"
+-----
 >Hi
 
 >My name is John and I will be your account representative as you evaluate ABC app. I will be calling you in next few mins to introduce myself and understand your requirements.
@@ -49,6 +57,8 @@ John, Customer Success Manager
 
 ####Why annoying?
 
+<!--ordered lists only work in markdown if you do them sequentially together. Use MOU (or some other markdown editor and you'll see the result below. ) -->
+
 1. I respect John's hustle, but interrupting customers by calling them is time-consuming and it seldom works.
 
 A few months ago, when I 'forced' customers to get on calls with me by scheduling them on their SoHelpful.me profiles -- thinking it'll work because they get an agenda, notifications, and calendar entries  -- customers didn't show up for  calls.
@@ -57,7 +67,7 @@ So I doubt calling customers right out of the gate, even warning them about it o
 
 I also personally think it's annoying and presumptous that I want to talk to them.
 
-2. Filler phrases: “Please do not hesitate to write to me” and “we welcome you to ABC app” 
+2. Filler phrases: “Please do not hesitate to write to me” and “we welcome you to ABC app”
 
 These words are so often repeated that they lose their meaning.
 
@@ -71,6 +81,8 @@ Make a customer feel special, like she's the only person in your world right now
 
 You can do this fast. A compliment on a recent blog post or company name or whatever.
 
+<!--I think we can discuss the cold-call directly. From our custdev some do find this effective. But it interrupts workflow (ours and theirs, you get a lot of voicemail, some hate it as you point out, and it doesn't work at all if you are more than 4 timezones apart). Also this one is just wishful thinking. Is the customer really sitting their with baited breath waiting for wonderful John to call? Staring longingly at the phone... more likely she never even read it. -->
+
 2. Get the customer's buy-in on the call.
 
 Don't force customers to be rude and ignore your call and email. Let them self-schedule with you.
@@ -80,6 +92,10 @@ By doing this, you are respectful of their time, you get their buy-in on the cal
 This makes a HUGE difference.
 
 ###The Dangerous One
+
+<!--Maybe a different name? Not sure I see the danger... The generic one? -->
+
+<!--I guess I see the issue with this one is that it just starts with fluff and has a lot of words without actually saying anything except: "go do this work now"" (read a bunch of stuff) and gives support info. Or send a tweet? Why would the customer do that.  This email is basically a wasted opportunity - it says nothing. -->
 
 >Great to have you on board!
 
@@ -99,7 +115,7 @@ It lets the customer decide which channel she wants.
 
 It's an *okay* email IF your goal is to let the customer know that the helpful tips document exists...
 
-This email is dangerous because it gives you the impression that it is doing its job, but in fact, it's probably not doing anything, because it's not clear on what it wants to accomplish. 
+This email is dangerous because it gives you the impression that it is doing its job, but in fact, it's probably not doing anything, because it's not clear on what it wants to accomplish.
 
 ###How to make The Dangerous One less so
 
@@ -110,6 +126,8 @@ It's worth it to only achieve one thing, and achieve it right, whether it's maki
 Be clear on what you want it to accomplish and let the whole email support that goal.
 
 ###Seriously???
+
+<!--I didn't realize this was another email. This is the f* you one from my perspective. So you want to learn how I'm using it? You want me to waste my time trying the schedule a call with you? What is in it for me? F* you. -->
 
 >Hi Chiara,
 >I saw that you signed up for our API and I wanted to learn more about how you were using it. Is there a time this week we can chat real quick to discuss it?
@@ -133,11 +151,15 @@ Understand my situation and where you can most likely provide value… Where do 
 
 2. Instead of assuming I want to get on a call and making me go through the pain of looking at my calendar... Make it a ‘2-step opt-in.’
 
+<!--I think you can say something like "make it easy for customers to schedule a call"" or something like that. -->
+
 Get my buy in first, “Can I get your advice?”, then *if* I reply, make it easy on me and suggest 3-4 times you think I'm available. Make it easy on me.
 
 One of the worst questions ever is “What time are you free this week?”
 
-###An excellent example of understanding that onboarding is sales 
+<!-- You totally lost me below.... is this an email? I think you can just cut this content from close.io and use it as another post. -->
+
+###An excellent example of understanding that onboarding is sales
 
 -----
 
@@ -198,6 +220,8 @@ What's your biggest struggle for networking?
 
 Finally...
 
+<!--Instead of personal comments, why not use a real email you sent? You can take a screenshot of Gmail or put the text here. -->
+
 ###The exact email template that gets 9 out of 10 customers to self-schedule calls with us
 
 **Subj line:** sohelpful.me (I hand-typed this email)
@@ -220,6 +244,8 @@ Just grab a slot at https://www.sohelpful.me/chiaracokieng/ and let's jam.
 Chiara
 
 Despite the many examples, there are actually only a few key principles that make emails work or not work. Here they are.
+
+<!--You could make this another post. -->
 
 ###The 6 principles of a highly effective welcome email:
 
