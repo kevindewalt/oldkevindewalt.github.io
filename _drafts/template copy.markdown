@@ -260,4 +260,6 @@ Bonus. This line is killer and works everywhere: Share best practices from other
 
 Onboarding, especially the welcome email, is sales. Don't waste this critical opportunity with fluff.
 
+<!--"this line....?" Last line is a critical point, maybe expand? Or do later? -->
+
 *What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
