@@ -29,11 +29,11 @@ Josh Elman, who did user onboarding for Twitter and LinkedIn, sums it up well wh
 >Right after somebody signs up for your service is your moment. **You have more attention than you ever will have again** from that user to try to teach them what your product is really about.”
 <br>--Josh Elman on [The Secrets to Driving Massive User Growth](https://www.youtube.com/watch?v=AaMqCWOfA1o)
 
-We've done a lot of experimenting and testing on what works and what doesn't in welcome emails. **We've went from getting ignored by everybody to getting 9 out of 10 customers to self-schedule onboarding calls with us.** 
+We've done a lot of experimenting and testing on what works and what doesn't in welcome emails. **We've went from getting ignored by everybody to getting 9 out of 10 customers to self-schedule onboarding calls with us.**
 
 Not the easiest thing to do.
 
-So in this post, I give 3 actual examples of typical welcome emails, why I think they don't work, and consequently, why you shouldn't copy them. 
+So in this post, I give 3 actual examples of typical welcome emails, why I think they don't work, and consequently, why you shouldn't copy them.
 
 At the end of the post, you'll also get the actual template we use that gets 90% of customers to self-schedule calls with us.
 
@@ -55,7 +55,7 @@ Okay, it's not actually dangerous. Not gonna hurt or kill you.
 
 But it's the most typical.
 
-Just like it's a bad idea for someone to decide to open a restaurant because she assumes *common* means *profitable*... 
+Just like it's a bad idea for someone to decide to open a restaurant because she assumes *common* means *profitable*...
 
 It's probably a bad idea for you to waste this critical moment -- when you're welcoming your customer to your app -- by copying the typical welcome email.
 
@@ -117,11 +117,11 @@ Not good if your goal is to get their feedback.
 ##Bad Welcome Email 3: "The FU One"
 -----
 
-[Kevin's](https://twitter.com/kevindewalt) words :-)
+Here is one a startup recently sent [Kevin](https://twitter.com/kevindewalt).
 
-An app we're paying $100+/month for sent this welcome email:
+Before you read this ... keep in mind we're paying $100+/month for this service.
 
->Hi Chiara,
+>Hi Kevin,
 >I saw that you signed up for our API and I wanted to learn more about how you were using it. Is there a time this week we can chat real quick to discuss it?
 
 >Thanks,
@@ -143,7 +143,7 @@ Time to stop raving against bad emails... Here's an example of one that works.
 ##The email that gets 9 of 10 customers to self-schedule with us
 ---
 
-post_image: welcome.jpg
+![Good Welcome Email](/images/welcome.png)
 
 This gets a 90% call rate. Why?
 
@@ -158,6 +158,6 @@ This gets a 90% call rate. Why?
 
 Onboarding, especially the welcome email, is sales. Don't waste this critical opportunity with fluff.
 
-Customize this email to welcome your customers and let me know ([chiara@sohelpful.me](mailto:chiara@sohelpful.me)) how you do? 
+Customize this email to welcome your customers and let me know ([chiara@sohelpful.me](mailto:chiara@sohelpful.me)) how you do?
 
 *What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
