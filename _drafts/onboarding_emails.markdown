@@ -143,11 +143,9 @@ Time to stop raving against bad emails... Here's an example of one that works.
 ##The email that gets 9 of 10 customers to self-schedule with us
 ---
 
-<!-- Works in MOU -->
-![Good Welcome Email](../images/welcome.png)
 
-<!--Works in jekyll -->
-![Good Welcome Email](/images/welcome.png)
+<!-- [![Good Welcome Email](/images/welcome.png)](/images/welcome.png) -->
+<a href="/images/welcome.png" target="_blank"><img src="/images/welcome.png" alt="Good Welcome Email"> </a>
 
 This gets a 90% call rate. Why?
 
