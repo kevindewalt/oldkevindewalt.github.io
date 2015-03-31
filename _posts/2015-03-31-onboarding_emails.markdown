@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Some examples and best practices of effective welcome emails"
+date: 2015-03-31T08:36:11-04:00
 post_image: onboarding.jpg
 keywords: ""
 author: "Chiara Cokieng"
