@@ -7,7 +7,7 @@ And if we forget to do it, the fix is easy. :-)
 <!-- Works in MOU -->
 ![Good Welcome Email](../images/welcome.png)
 
-<!--Works in jekyll -->
+<!--Works in jekyll -- use this -- -->
 ![Good Welcome Email](/images/welcome.png)
 
 
