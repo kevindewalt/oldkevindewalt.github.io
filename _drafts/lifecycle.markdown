@@ -59,7 +59,7 @@ They weren't optimizing for sales at all. They just wanted to understand what bu
 
 And they wanted to  check on them throughought the process.
 
-Rob Walling, founder of Drip, said that at the beginning, he spent 20 hours/week manually onboarding customers.
+[Rob Walling](http://blog.sohelpful.io/blog/robwalling/), founder of Drip, said that at the beginning, he spent 20 hours/week manually onboarding customers.
 
 He sent emails manually from Gmail. He recorded one-off screencasts. He screenshared. He even did stuff for customers.
 
