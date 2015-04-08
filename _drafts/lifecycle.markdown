@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Why setting up a bunch of automated emails won't improve your conversion rate"
+title: "Don't start you SAAS app with lifecycle emails"
 post_image: phone.jpg
 keywords: ""
 author: "Chiara Cokieng"
 photo_credit: <a href="https://www.flickr.com/photos/yourdon/">Ed Yourdon</a>
 ---
-
+###Lifecyle emails are not the holy grail for conversions
 >I just have a welcome email and one for 10 days before  trial ends. So far 3/7 recipients open it, of which only one is still active. I guess next step is to set up a bunch more automated emails...
 
-This is an actual message I just received. It's a common one. And it’s also exactly how I used to think.
+This is an actual message I just received <!-- from...? --> .  It's a common one. And it’s also exactly how I used to think.
 
-We all know that to convert free trials to paying customers, you have to keep them engaged with your app.
+We all know that increasing conversions requires getting customers more engaged with our apps. And conventional wisdom suggests that lifecycle emails are the solution to engagement.
 
-We also know that an effective way of enganging them is to set up lifecycle emails.
+<!--opening is a bit awkward. I see where you're going but I think you have to be clearer up front. -->
 
 ###But what do you write in lifecycle emails?
 
@@ -25,11 +25,14 @@ Common advice says, you should:
 
 This sounds like it makes sense... But another way of saying it? Is do a lot of thinking on your own, put out a bunch of emails, and try to guess what’s working and what’s not.
 
+
 Put this way, it obviously will not increase your conversions.
 
 But I used to beat myself up over not knowing what to write in these emails. And so do many founders who've told me they're going to spend a few weeks setting up a bunch of automated emails.
 
 So to save you from this frustration, I want to share with you one idea that became very clear to me after interviewing a bunch of successful SaaS companies for the [Things That Don't Scale](http://blog.sohelpful.io/things_dont_scale/):
+
+<!--from this point on it reads great and flows perfectly. I think you just need to tighten up the first 2 sections above, hit the major point strong. Lifecycle emails are not very effective in the beginning. We don't really know what to write so it takes forever - because we're basically guessing. Customers don't really open or read them so it just fills their inboxes. Successful SAAS companies don't work like this. -->
 
 ###Just starting? You're not supposed to know what to write in lifecycle emails.
 
