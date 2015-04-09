@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""To build and sell a multi-million dollar company, first do primitive stuff" with David Spittel"
+title: "\"To build and sell a multi-million dollar company, first do primitive stuff\" with David Spittel"
 post_image: paybyphone.jpg
 keywords: ""
 author: "Chiara Cokieng"
@@ -51,7 +51,7 @@ So we emailed, texted, and called them. We expected them to go, “Who are you??
 
 So we took our top 10% users -- some of them, like the photocopier repair guy who parks 1,000x/year -- to lunch and asked them, “Who are you?” We wanted to understand.
 
-One example of a change we made after understanding our customers was our message. 
+One example of a change we made after understanding our customers was our message.
 
 Before, our messaging explained the benefits and the steps, which seemed like the right thing to do. It was terribly ineffective.
 
@@ -71,7 +71,7 @@ Then it all came down to contracting with cities and private parking facilities.
 
 The city then improved the signage, the media, and hired customer service agents to help users sign up.
 
-We dropped the convenience fee charged on the users and let the city pay for the service. 
+We dropped the convenience fee charged on the users and let the city pay for the service.
 
 Once the service is at no cost to users, we experienced a dramatic growth.
 
