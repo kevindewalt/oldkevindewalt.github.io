@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\"To build and sell a multi-million dollar company, first do primitive stuff\" with David Spittel"
+title: "\"How PayByPhone sold for $45M by first doing things that don't scale\" with David Spittel"
 post_image: paybyphone.jpg
 keywords: ""
 author: "Chiara Cokieng"
@@ -21,7 +21,7 @@ Which is why this story by Dave Spittel of Pay by Phone -- a mobile payment comp
 
 This is a brief, but insightful one.
 
-#"To build and sell a multi-million dollar company, first do primitive stuff" with David Spittel
+#"How PayByPhone sold for $45M by first doing things that don't scale" with David Spittel
 
 We started Pay by Phone, a mobile payments company in 2000.
 
