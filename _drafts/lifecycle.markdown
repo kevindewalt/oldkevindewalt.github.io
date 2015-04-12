@@ -20,17 +20,15 @@ One thing became very clear to me after interviewing successful SaaS companies f
 
 ###Successful SAAS companies do not start onboarding customers to their new app by writing lifecycle emails
 
-At the beginning, you're basically guessing what you should write, so writing these emaails takes forever.
+At the beginning, you're basically guessing what you should write, so writing these emails takes forever.
 
 And because you're probably going to guess wrong, customers don't really read them... So they don't work.
 
 All that time you spent writing? Wasted.
 
-Yeah, you'll "learn" from it... You'll know your emails didn't work. But you still won't know what to do to increase conversions. 
+Yeah, you'll "learn" from it... You'll know your emails didn't work. But you still won't know what to do to increase conversions.
 
 This is not how successful SaaS companies work.
-
-<!--from this point on it reads great and flows perfectly. I think you just need to tighten up the first 2 sections above, hit the major point strong. Lifecycle emails are not very effective in the beginning. We don't really know what to write so it takes forever - because we're basically guessing. Customers don't really open or read them so it just fills their inboxes. Successful SAAS companies don't work like this. -->
 
 ###Just starting? You're not supposed to know what to write in lifecycle emails.
 
