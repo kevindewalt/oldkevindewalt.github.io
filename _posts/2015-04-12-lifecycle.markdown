@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Don't start you SAAS app with lifecycle emails"
+title: "Don't start your SAAS app with lifecycle emails"
 date: 2015-04-12T06:48:48-04:00
 post_image: phone.jpg
 keywords: ""
