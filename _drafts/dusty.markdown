@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "\"Differentiating your company in a world with jaded customers and lots of competition\" with Dusty Davidson
+title: "\"Differentiating your company in a world with jaded customers and lots of competition\" with Dusty Davidson"
 post_image: dustydavidson.jpeg
 keywords: ""
 author: "Chiara Cokieng"
 photo_credit: <a href="http://dustyd.net/">Dusty Davidson</a>
 ---
 
+<!--One question I had - and just skip this if you don't know - is how long it takes Dusty to move a site. What do they actually have to do? -->
+
 >Moving 10,000 sites for customers is not easy. It’s hard work… And it’s what differentiates us from the competition. They don’t do it because it’s hard and expensive.
 
 *[Dusy Davidson](http://dustyd.net/about/) is the founder of [Flywheel](https://getflywheel.com/). The “WP Engine for designers,’ they host Wordpress websites for designers. With ~5,000 customers today, the biggest thing they did to get started is “hustle and become friends with our customers.”*
+
+<!--Sentence below is a bit awkward, I had to read it a few times. -->
 
 Of the many companies I interviewed, Dusty is the biggest proponent of “doing things that don’t scale” to grow your company. Of the many things that don't scale you do, what are things --  that if you did them --  would differentiate yourself in a hypercompetitive market where customers are jaded? Read this interview to find out.
 
@@ -22,7 +26,9 @@ We’ve experimented with lots of marketing automation… We  do some of that, b
 Looking at what has been successful, high touch personal responses and physically migrating our customers' sites are major drivers of our success today.
 
 
-###What’s your customer's biggest roadblock? 
+###What’s your customer's biggest roadblock?
+
+<!--roadblock to ... adopting your product? -->
 
 When somebody signs up on our site, their biggest roadblock is not knowing or wanting to move their site.
 
