@@ -1,7 +1,8 @@
 ---
-redirect_from: /sohelpfulio/index.html
-layout: page
-title: sohelpful.io project
+redirect_to: /things_dont_scale/
+layout: redirected
+sitemap: false
+title: About
 ---
 
 {% include signup_form.html %}

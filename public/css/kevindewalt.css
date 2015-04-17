@@ -2,6 +2,14 @@
   .no-phone {
     display: none; } }
 
+h1.title {
+  font-size: 2.5rem;
+  margin-bottom: 5rem; }
+
+h2.subtitle {
+  color: white;
+  margin-top: 1rem; }
+
 h2 {
   margin-top: 2rem; }
   @media (max-width: 48em) {

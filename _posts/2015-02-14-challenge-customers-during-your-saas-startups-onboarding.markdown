@@ -8,7 +8,7 @@ photo_credit: <a href="https://www.flickr.com/photos/axlape/">Kim Paulin</a>
 ---
 Tomasz Tunguz's (VC at Redpoint) blog is a must-read for SaaS startup founders. His most recent post [Challenging Your Customers During Your SaaS Startup's Sales Process](http://tomtunguz.com/challenger-sales-process/) is no exception.
 
-He references a 2009 Corporate Executive Board study on effective enterprise sales teams. Conclusion? The most effective sales person is a "Challenger" - someone who controls the sales process by teaching the potential customer what they need to do to achieve their goals.  
+He references a 2009 Corporate Executive Board study on effective enterprise sales teams. Conclusion? The most effective sales person is a "Challenger" - someone who controls the sales process by teaching the potential customer what they need to do to achieve their goals.
 
 Tunguz summarizes it perfectly:
 
@@ -16,7 +16,7 @@ Tunguz summarizes it perfectly:
 
 (emphasis mine)
 
-This is exactly what you need to do during [concierge onboarding](/sohelpfulio) - to take control and become the expert. Here are the right and wrong ways to do it.
+This is exactly what you need to do during [concierge onboarding](/about) - to take control and become the expert. Here are the right and wrong ways to do it.
 
 ## Wrong onboarding: help them use your product
 

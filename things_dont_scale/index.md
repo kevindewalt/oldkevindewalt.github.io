@@ -1,5 +1,4 @@
 ---
-redirect_from: /sohelpfulio/index.html
 layout: page
 title: About Things That Don't Scale
 ---
@@ -25,7 +24,7 @@ Unfortunately, no. **Yep, customers were signing up. But they were also churning
 
 They liked and bought the idea. But our onboarding wasn't great, so our new customers didn't know how to use SoHelpful.
 
-They couldn’t see how our product fits into their lives. 
+They couldn’t see how our product fits into their lives.
 
 So we did what we knew best: We called each and every one of our customers to help them use SoHelpful to achieve their goals.
 
@@ -37,7 +36,7 @@ Actually, no.
 
 ##Doing things that don’t scale: How successful startups create customers that love them
 
-**Pinterest** could’ve looked at heat maps and analytics. Instead, they went to cafes and asked random people to try their website. 
+**Pinterest** could’ve looked at heat maps and analytics. Instead, they went to cafes and asked random people to try their website.
 
 When Patrick McKenzie emailed **Stripe**, they could’ve replied with a “Thanks for the email. Please see our FAQ.“ Instead, cofounder Patrick Collisson not only diagnosed the problem, but emailed to say he already fixed it for McKenzie.
 
