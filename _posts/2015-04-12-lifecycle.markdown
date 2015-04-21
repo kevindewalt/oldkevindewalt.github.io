@@ -5,6 +5,7 @@ date: 2015-04-12T06:48:48-04:00
 post_image: phone.jpg
 keywords: ""
 author: "Chiara Cokieng"
+comments: true
 photo_credit: <a href="https://www.flickr.com/photos/yourdon/">Ed Yourdon</a>
 ---
 Lifecycle emails are not the holy grail for conversions.

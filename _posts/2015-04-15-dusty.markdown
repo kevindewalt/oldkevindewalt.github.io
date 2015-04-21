@@ -4,18 +4,13 @@ title: "\"Differentiating your company in a world with jaded customers and lots 
 post_image: dustydavidson.jpeg
 keywords: ""
 author: "Chiara Cokieng"
+comments: true
 photo_credit: <a href="http://dustyd.net/">Dusty Davidson</a>
 ---
-
-<!--One question I had - and just skip this if you don't know - is how long it takes Dusty to move a site. What do they actually have to do? -->
-
-<!-- Answer is I don't know -->
 
 >Moving 10,000 sites for customers is not easy. It’s hard work… And it’s what differentiates us from the competition. They don’t do it because it’s hard and expensive.
 
 *[Dusy Davidson](http://dustyd.net/about/) is the founder of [Flywheel](https://getflywheel.com/), a company that host Wordpress websites for designers. Now very successful, the biggest thing they did to get started is “hustle and become friends with our customers.”*
-
-<!--Sentence below is a bit awkward, I had to read it a few times. -->
 
 If you're a SAAS company, chances are you're in a crowded market and customers are *sick* of trying new apps out. We think the way out is to market better or innovate more... In this interview, Dusty discusses the unique way his company tackles this challenge and talks through some simple questions you can ask yourself to solve this dilemma.
 
@@ -29,8 +24,6 @@ Looking at what has been successful, high touch personal responses and physicall
 
 
 ###What’s your customer's biggest roadblock to adopting your product?
-
-<!--roadblock to ... adopting your product? -->
 
 When somebody signs up on our site, their biggest roadblock to using the product is not knowing or wanting to move their site.
 

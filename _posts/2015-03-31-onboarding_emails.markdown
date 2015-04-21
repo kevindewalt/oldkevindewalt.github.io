@@ -5,15 +5,11 @@ date: 2015-03-31T08:36:11-04:00
 post_image: onboarding.jpg
 keywords: ""
 author: "Chiara Cokieng"
+comments: true
 photo_credit: <a href="https://www.flickr.com/photos/90371939@N00/">Nathan</a>
 ---
 >Does this stuff actually work??
 
-<!--what is "this stuff"? Maybe "Is this really for me?" I think you start out with a critical perspective here that you can carry through to the examples. These emails don't put themselves in the shoes of a real customer - just some fantasy person they have dreamed up who is thrilled to have discovered our wonderful product. You do that a bit in the examples but I think you can drive home the point more forcefully - like what you personally are *really* thinking when you get them. -->
-
-<!--Chiara: I am thinking as a business person (does this actually work for them??), not as a customer (is this really for me??). I think does this actually work works better for where i'm actually coming from and what sassy sally would relate to. But will make that clearer.-->
-
-<!--Also I think you can say more about the company with out giving away names: "this is from a venture-backed Techstars startup (or whatever)" -->
 
 I try to have my marketer hat on all the time. This is especially true for when I sign up for an app and the onboarding process starts.
 
@@ -38,16 +34,6 @@ So in this post, I give 3 actual examples of typical welcome emails, why I think
 
 At the end of the post, you'll also get the actual template we use that gets 90% of customers to self-schedule calls with us.
 
-<!--As I skim through the text I have a hard time separating the emails from each other. Maybe say ... EXAMPLE 1 with more space.-->
-
-<!--Outline
-
-1. Start with dangerous
-2. Annoying
-3. Seriously -- FU one -- if you want people to hate your company - shows you care nothing about your customer
---how to improve: throw away and start from scratch -- $100/month we're paying
-4. End with our template -- with actual email
---6 (short) points while -->
 
 <br>
 ##Bad Welcome Email 1: "The Dangerous One"
@@ -73,7 +59,6 @@ The best way to learn APP is to jump right in and start using it. We've pooled t
 Have any questions or feedback? You can always get in touch with us at support@APP.com, or send us a tweet @APP. We're here to help and we'd love to hear from you
 
 
-<!--I guess I see the issue with this one is that it just starts with fluff and has a lot of words without actually saying anything except: "go do this work now"" (read a bunch of stuff) and gives support info. Or send a tweet? Why would the customer do that.  This email is basically a wasted opportunity - it says nothing. -->
 
 Basically, it contains a lot of words but says nothing. It also does not know what it's trying to accomplish.
 
@@ -133,7 +118,6 @@ So this guy wants Kevin to waste his time trying to schedule a call with him? Wh
 
 **Send this email if you want to piss off your customers. You can also use it if you do NOT want to learn how your customers are using your API.**
 
-<!--Instead of personal comments, why not use a real email you sent? You can take a screenshot of Gmail or put the text here. -->
 
 So you've seen three examples of welcome emails that don't work.
 
@@ -145,7 +129,6 @@ Time to stop raving against bad emails... Here's an example of one that works.
 ---
 
 
-<!-- [![Good Welcome Email](/images/welcome.png)](/images/welcome.png) -->
 <a href="/images/welcome.png" target="_blank"><img src="/images/welcome.png" alt="Good Welcome Email"> </a>
 
 This gets a 90% call rate. Why?
@@ -163,4 +146,4 @@ Onboarding, especially the welcome email, is sales. Don't waste this critical op
 
 Customize this email to welcome your customers and let me know ([chiara@sohelpful.me](mailto:chiara@sohelpful.me)) how you do?
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/about">SoHelpful.io Project</a>.*

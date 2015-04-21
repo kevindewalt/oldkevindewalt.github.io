@@ -5,5 +5,6 @@ date: {{ date }}
 post_image: image_name.jpg
 keywords: ""
 author: ""
+comments: true
 photo_credit: <a href="">Change Me</a>
 ---

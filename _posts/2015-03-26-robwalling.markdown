@@ -5,6 +5,7 @@ date: 2015-03-26T13:05:59-04:00
 post_image: rob-walling.png
 keywords: ""
 author: "Chiara Cokieng"
+comments: true
 photo_credit: <a href="https://twitter.com/robwalling">@robwalling</a>
 ---
 Rob Walling is the author of A Developer’s Guide to Launching a Startup. He co-hosts *Startups for the Rest of Us*, a popular startup podcast I really enjoy, hosts MicroConf, a self-funded startup conference. He also owns HitTail and Drip.

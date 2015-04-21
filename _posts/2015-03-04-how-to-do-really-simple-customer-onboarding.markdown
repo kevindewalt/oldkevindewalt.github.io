@@ -5,6 +5,7 @@ date: 2015-03-04T17:31:09+08:00
 post_image: burn.jpg
 keywords: ""
 author: "Chiara Cokieng"
+comments: true
 photo_credit: <a href="https://www.flickr.com/photos/purpleslog/">Purple Slog</a>
 ---
 I wanted to go after more customers, but Kevin wouldn’t let me.
@@ -133,7 +134,7 @@ Here's what I do once we're on the call:
 + What's holding them back
 + Summarize the 3 actions they say they want to do
 
-Then I ask if they want me to follow up within 2 weeks. 
+Then I ask if they want me to follow up within 2 weeks.
 
 Getting on the phone is already unexpected.
 

@@ -4,6 +4,7 @@ title: "\"How PayByPhone sold for $45M by first doing things that don't scale\" 
 post_image: paybyphone.jpg
 keywords: ""
 author: "Chiara Cokieng"
+comments: true
 photo_credit: Chiara Cokieng
 ---
 
@@ -81,4 +82,4 @@ I’d love to build a business with no cold calling. It would be less painful.
 
 But we couldn’t have gotten to where we are if we didn’t do the primitive stuff.
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/about">SoHelpful.io Project</a>.*

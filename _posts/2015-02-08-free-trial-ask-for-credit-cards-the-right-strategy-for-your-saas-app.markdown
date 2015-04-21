@@ -5,6 +5,7 @@ title: "Free trial? Ask for credit cards? The right strategy for your SaaS app"
 date: 2015-02-08T11:48:08+08:00
 post_image: credit-card.jpg
 keywords: "credit cards, free trial, saas free trial with credit card"
+comments: true
 photo_credit: <a href="https://www.flickr.com/photos/smemon/">Sean MacEntee</a>
 ---
 Whether to offer free trials and when to charge customers are among the most debated onboarding issues for SaaS companies. There are 4 basic strategies for increasing conversion by lowering the customers’ transactional risks:
