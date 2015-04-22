@@ -4,6 +4,7 @@ title: "TITLE"
 post_image: IMAGE.jpg
 keywords: ""
 author: "Chiara Cokieng"
+comments: true
 photo_credit: <a href="LINK">WHO THE HELL</a>
 ---
 text
