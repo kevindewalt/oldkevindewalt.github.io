@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "\"Customer onboarding for challenging products\" with Janet Choi from Customer.io"
-post_image: IMAGE.jpg
+post_image: janet_customerio.jpg
 keywords: ""
 author: "Chiara Cokieng"
 comments: true

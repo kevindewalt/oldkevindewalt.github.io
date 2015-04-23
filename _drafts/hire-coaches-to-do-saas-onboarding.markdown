@@ -13,7 +13,11 @@ In this post I’ll offer fellow SaaS founders some advice on hiring for onboard
 
 ## Successful onboarding starts with the founder
 
-Successful SaaS founders invest a lot of time onboarding customers in the first year or two of operations.  The founder is usually a domain expert in subjects like marketing, sales, product development, etc and uses that expertise to build close relationships with early customers. The founder “does things that don’t scale” and spends a lot of time helping early customers achieve their business goals.
+Successful SaaS founders invest a lot of time onboarding customers in the first year or two of operations.  
+
+The founder is usually a domain expert in subjects like marketing, sales, product development, etc and uses that expertise to build close relationships with early customers. 
+
+The founder “does things that don’t scale” and spends a lot of time helping early customers achieve their business goals.
 
 ## The founder’s dilemma - hiring the first onboarding specialist
 
@@ -23,9 +27,11 @@ Some founders - like me - have a hard time imagining someone else doing onboardi
 
 This is a mistake.
 
-## The #1 goal in onboarding is creating the customer will to change behavior
+## The #1 goal in onboarding is creating the "will" in the customer to change behavior
 
-After a year or two of steady growth most SaaS apps begin to mature and product issues (design, usability, features, etc.) are no longer barriers to customer adoption. Instead, the customers’ unwillingness to change behavior is the primary adoption barrier.
+After a year or two of steady growth most SaaS apps begin to mature and product issues (design, usability, features, etc.) are no longer barriers to customer adoption. 
+
+Instead, the customers’ unwillingness to change behavior is the primary adoption barrier.
 
 For instance, LessAccounting did a great job of introducing a better product than Quickbooks for small businesses. But the first time I tried LessAccounting I had a difficult time understanding how to enter expenses because I wasn’t used to dealing with a different way to think of accounting. I bailed on the product simply because I didn’t want to learn a new way to work.
 
