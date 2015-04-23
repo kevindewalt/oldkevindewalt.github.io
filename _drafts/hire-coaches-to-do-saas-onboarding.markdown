@@ -17,9 +17,9 @@ Successful SaaS founders invest a lot of time onboarding customers in the first 
 
 ## The founder’s dilemma - hiring the first onboarding specialist
 
-This investment pays off - trial customers trust the founder, convert to paying customers, and don’t cancel.  But as the company grows the founder can’t build relationships with every new customer and needs to hire someone to fill the position.
+This investment pays off - trial customers trust the founder, convert to paying customers, and don’t cancel.  But as the company grows the founder can’t build relationships with every new customer and needs to hire someone to do it.
 
-Founders have a hard time imagining someone else doing onboarding - they leveraged their domain expertise to win new customer trust and assume they need to hire another domain expert to scale onboarding.
+Some founders - like me - have a hard time imagining someone else doing onboarding. We leverage our domain expertise to win new customer trust and assume others need to be domain experts like us to have credibility with customers.
 
 This is a mistake.
 
