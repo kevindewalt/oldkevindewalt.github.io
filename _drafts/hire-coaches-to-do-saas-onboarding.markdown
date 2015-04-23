@@ -42,6 +42,8 @@ We advocate the GROW coaching framework to do concierge onboarding.
 + Identify *Obstacles*.
 + Create the *Will* for customers to overcome the Obstacles and achieve Goals.
 
+## How an onboarding coach works
+
 For example, my *Goal* in signing up for LessAccounting was to spend less time doing accounting. My *Reality* was that I was using QuickBooks and hating it. The *Obstacle* was that I didn’t commit to spending ~1-2 hours learning a new way to do bookkeeping.
 
 An onboarding specialist could have created the *Will* for me to change by helping me clarify my Goals and see that a small investment of effort would ultimately have huge long-term benefits. This can be done over a quick phone call and a few follow-up emails.
