@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hire coaches to do SaaS onboarding"
+date: 2015-04-24T15:08:00-04:00
 post_image: kids_coach.jpg
 keywords: "onboarding, hiring customer success, hiring onboarding, hiring customer suppport"
 author: "Kevin Dewalt"
