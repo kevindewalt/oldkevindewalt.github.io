@@ -9,33 +9,43 @@ photo_credit: <a href="LINK">WHO THE HELL</a>
 ---
 *[Customer.io](http://customer.io/) is an app that enables you to send targeted human emails to your users. In [2014](http://customer.io/is-open/2014-Year-in-review.html), they hit 500+ paying customers and $1.5 million in annual recurring revenue.*
 
-Does your product solve a hard problem? Chances are, customers find your product challenging to use. It’s difficult to onboard them. The thing is, when you study how to do onboarding, the answer is mostly, “Make it as fast, easy, and painless as possible!” Not very helpful.
+*<u>Note from [Kevin](http://twitter.com/kevindewalt)</u>: We're happy, paying customers of Customer.io. Their product is "challenging" only because they are solving a very hard problem. More in the comments.*
+
+Does your product solve a hard problem? Chances are, customers find your product challenging to use. It’s difficult to onboard them. Unfortunately most advice around onboarding is ... “Make it as fast, easy, and painless as possible!”
+
+Fine advice for a photo-sharing app - not so useful for enterprise products.
 
 That’s why I was so excited to interview Janet Choi, Customer.io’s Marketing Manager.
 
 People find email confusing and there are many, different providers. How does Customer.io get people to choose *and* use them? Read this post to learn how a successful company with a self-admitted challenging product onboards new customers.
 
-###"Customer onboarding for challenging products" with Janet Choi
+#"Customer onboarding for challenging products" with Janet Choi
 
-Why do users churn off?
+###Acquisition isn't enough anymore
 
-Messaging platforms can feel really confusing and there are lots of providers. More than anything else, it’s fit.
+Onboarding is hard. Getting customers to change their behavior is really hard. Acquisition is actually easier to do and measure - so most companies focus on it instead.
 
-We need to make sure it’s a good fit for customers.
+But as acquisition costs continue to rise companies increasingly realize they just can't let the product speak for itself and hope customers figure it out. Churn will *kill* a company's growth. You have a product that works ... happy paying customers ... but new ones disappear without ever giving your product a chance.
 
-###Onboarding emails can do this for you, but you have to do them well.
+Frustrating? Sure. But it is a solvable problem - here's how we successfully onboard customers and help them integrate Customer.io into their work.
 
-You really have to test them, and that can feel uncomfortable.
+###Onboarding starts with fit - are we the right product?
 
-We all have this idea that our product speaks for itself once we get people in the door. This is why most businesses focus on acquisition more than retention.
+Onboarding is particularly challenging for messaging products like Customer.io. There are lots of solutions for different situations. Do you want to send a newsletter? Autoresponder? Targeted campaign? Customers see so many choices and find it bewildering.
 
-You don’t think you’re going to lose the things you have, so you focus on getting more. It’s like money — you don’t think about how much you’re spending, but how much more you can get.
+Our first step is making sure we're a good fit for customers - if not, nothing else matters.
 
-We *are* working on a series of emails… But it’s one of those things that keeps getting pushed back on your todo list.
+###Onboarding emails? Sure, but you have to do them well.
 
-Either that, or people do them (emails) loosey goosey…
+You might expect that a messaging company like Customer.io relies only on email for onboarding - but we don't. Sure, email is awesome - you can instantly deliver targeted, customized messages based on who your customers are or what they're doing in your application. Email plays a critical part of our rentention strategy.
 
-###But if you want to do email well, it's critical that you understand customers at the beginning stages.
+But general onboarding emails are really, really tough to write. Most companies write them (emails) loosey-goosey and just hope. It doesn't work.
+
+You have to really know your customers. You have to test them like crazy and provide a good reason for customers to read them and change their behavior.
+
+We *are* working on a series of onboarding emails… But it’s one of those things that keeps getting pushed back on your todo list.
+
+###So it's critical that you understand customers.
 
 When I joined Customer.io, I was really eager to talk to customers.
 
@@ -51,21 +61,23 @@ Can your tool do this? Or, I want to do this. *Help me figure it out.*
 
 If I hadn’t done that, I wouldn’t know what our customers cared about… You need that understanding to both market to and retain customers.
 
-###You need to go through the Concierge Onboarding process.
+###The most effective way to learn about onboarding customers is through Concierge Onboarding
 
 We started doing Concierge Onboarding to learn how to onboard new people and get them to actually use the product…
 
-We’d have conversations with customers. We ask them why they are here. We try to figure out how we can help. 
+We’d have conversations with customers. We ask them why they are here. We try to figure out how we can help. And we discovered that Concierge Onboarding [doubled our paid conversion rate](http://customer.io/blog/Concierge-onboarding-doubled-conversions.html).
 
-Sometimes, it’s by admitting we’re not a good fit.
+Sometimes the best strategy is admitting we're not a good fit.
 
 We almost don’t talk in the beginning. We listen. What we do NOT do is say, "Here’s who we are. Buy our product.”
 
-It worked.
+It works - you really, really understand what new customers want when you hear it from their mouths.
 
-Plus, when we looked at our numbers for the whole year? **Our sales for the months we were doing concierge were higher.**
+###Concierge Onboarding results in more sales - so we're going to keep doing it
 
-When Colin stopped, they dropped.
+When we looked at our numbers for the whole year? **Our sales for the months we were doing concierge were higher.**
+
+When Colin [our CEO and founder] stopped doing Concierge Onboarding sales dropped.
 
 The interaction in the beginning makes a difference.
 
