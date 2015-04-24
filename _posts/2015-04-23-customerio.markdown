@@ -9,7 +9,7 @@ photo_credit: <a href="LINK">WHO THE HELL</a>
 ---
 *[Customer.io](http://customer.io/) is an app that enables you to send targeted human emails to your users. In [2014](http://customer.io/is-open/2014-Year-in-review.html), they hit 500+ paying customers and $1.5 million in annual recurring revenue.*
 
-*<u>Note from [Kevin](http://twitter.com/kevindewalt)</u>: We're happy, paying customers of Customer.io. Their product is "challenging" only because they are solving a very hard problem. More in the comments.*
+*<u>Note from [Kevin](http://twitter.com/kevindewalt)</u>: We're happy, paying customers of Customer.io. Their product is "challenging" only because they are solving a very hard problem. Read more in the comments below.*
 
 Does your product solve a hard problem? Chances are, customers find your product challenging to use. It’s difficult to onboard them. Unfortunately most advice around onboarding is ... “Make it as fast, easy, and painless as possible!”
 
