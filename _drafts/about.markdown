@@ -15,9 +15,9 @@ Free trial users stopped converting into paying customers.
 
 *Even though our product, marketing, and understanding of customers were better.*
 
-We didn't know what to do to get MRR growing again?
+We didn't know what to do to get MRR growing again.
 
-So we followed popular advice like “make the onboarding process as fast and easy as possible!” and “send automated lifecycle emails!”
+We were following popular advice like “make the onboarding process as fast and easy as possible!” and “send automated lifecycle emails!”
 
 But they didn’t work.
 
@@ -29,16 +29,18 @@ And it worked! That’s why this site exists.
 
 If that sounds useful to you, you’re in the right place.
 
-#Here’s what we’re all about:
+#What is this site? Here's what we're all about:
 
-###Increasing MRR by reducing churn and increasing conversions through Concierge Onboarding
+###1. Increasing MRR by reducing churn and increasing conversions through Concierge Onboarding
 
-+ How do you identify and invest in your most qualified customers?
-+ What do you email to customers? When do you do it?
-How do you coach customers to change behavior and get the most out of your product?
-+ How do you hire and train customer success reps to do this?
+Here, you'll learn:
 
-In fact, we’ve built a tool to optimize and get the benefits of manually onboarding each customer without a lot of time: [SoHeplful.io](http://try.sohelpful.io/)
++ How to identify and invest in your most qualified customers
++ What to email to customers and when
++ Coaching customers to change behavior and get the most out of your product
++ Hiring and training customer success reps to do concierge onboarding
+
+Manually onboarding each customer has been so effective for our startups that we built a tool to optimize and do it without a lot of time: [SoHeplful.io](http://try.sohelpful.io/)
 
 Not ready for a tool? Start with some of our most popular blog posts:
 
@@ -52,17 +54,21 @@ Not ready for a tool? Start with some of our most popular blog posts:
 
 [Hire coaches to do SaaS onboarding](http://blog.sohelpful.io/blog/hire-coaches-to-do-saas-onboarding/)
 
-###No theory. Only truth and what works from the trenches.
+###2. No theory. Only truth and what works from the trenches.
 
-You won’t see BS business fiction here. No growth hacking and automating your way to $1 million in a month. No theories and consultants on what you ‘should’ be doing.
+You won’t see BS business fiction here.
+
+No growth hacking and automating your way to $1 million in a month. No theories and consultants on what you ‘should’ be doing.
 
 Just business people in the trenches practicing what we preach and sharing stories, tools, and lessons learned.
 
-###Useful content, yes. But good writing, too.
+###3. Useful content, yes. But good writing, too.
 
 >Sad to see these emails come to an end. This is hands down some of the best startup lessons I have ever read. I have taken a shitload of courses and read countless books, but this course is truly a game changer for me. — Shaun Singh
 
-You could be in a million other sites right now, but you choose to spend your time with us. We respect that.
+You could be in a million other sites right now, but you choose to spend your time with us.
+
+We respect that.
 
 There’s already too much crap on the internet. So no listicles, fluff, and writing for content marketing’s sake here. Only stuff you can use.
 

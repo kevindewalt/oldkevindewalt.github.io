@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "/"Learn everything there is to learn, and then automate”/ with Nick Francis from Help Scout"
+title: "\"Learn everything there is to learn, and then automate”\ with Nick Francis from Help Scout"
 post_image: nickfrancis.jpeg
 keywords: ""
 author: "Chiara Cokieng"
@@ -50,9 +50,9 @@ They don’t want to go through the laborious process of talking to customers.
 
 Why? Too many times it's because they’re trying to do things, not to learn, but to scale.
 
-You need to build things to maximize learning first, scale second. I think this is important for startups. 
+**You need to build things to maximize learning first, scale second.**
 
-Building anything to scale means you miss all the learning, which is critical in an early startup. Don’t miss the opportunity to learn by automating.
+I think this is important for startups. Building anything to scale means you miss all the learning, which is critical in an early startup. Don’t miss the opportunity to learn by automating.
 
 Learn everything there is to learn, and then automate.
 
