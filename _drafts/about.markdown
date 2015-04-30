@@ -1,29 +1,37 @@
 ---
 layout: post
 title: "About"
-post_image: IMAGE.jpg
+post_image: coldstone.jpg
 keywords: ""
 author: "Chiara Cokieng"
 comments: true
 photo_credit: <a href="LINK">WHO THE HELL</a>
 ---
->Kevin has taught thousands of entrepreneurs and innovators how to create value and minimize waste — and he can help you as well. — Eric Ries
 
-Paying customers were churning right off.
+# How we became evangelists for Concierge Onboarding
+### *Our eureka moment started with Cold Stone ice cream...*
 
-Free trial users stopped converting into paying customers.
+Well, sort of. It actually started a few hours earlier while reviewing our customer metrics for SoHelpful, our SaaS app.
+
+Paying customers were churning right off. Free trial users stopped converting into paying customers.
 
 *Even though our product, marketing, and understanding of customers were better.*
 
-We didn't know what to do to get MRR growing again.
-
-We were following popular advice like “make the onboarding process as fast and easy as possible!” and “send automated lifecycle emails!”
+We didn't know what to do to get MRR growing again. We were following popular advice like “make the onboarding process as fast and easy as possible!” and “send automated lifecycle emails!”
 
 But they didn’t work.
 
-Finally, we went back to basics and did “things that don’t scale” to onboard new users. We got them on the phone, discussed their goals and challenges, and helped them understand how to use SoHelpful to achieve their goals.
+So, yeah. We decided to go out for ice cream and figure out what went wrong and what to do about it.
 
-There’s even a term for it: Concierge Onboarding.
+As we talked about our customers it became obvious that our earliest customers stuck with our product because we invested time getting to know them, their business, and helped them see ways to achieve their goals with it.
+
+And we talked about ways we could get to know our new customers too - ways to “do things that don’t scale” to onboard new users. We realized we could just schedule a phone call with our new customers - and decided to do just that.
+
+### We decided to talk to all new customers
+
+We got them on the phone, discussed their goals and challenges, and helped them understand how to use SoHelpful to achieve their goals.
+
+We learned there's even a term for it: Concierge Onboarding.
 
 And it worked! That’s why this site exists.
 
