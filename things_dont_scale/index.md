@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About Things That Don't Scale
+title: About
+post_image: coldstone.jpg
 ---
 # How we became evangelists for Concierge Onboarding
+
 ### *Our eureka moment started with Cold Stone ice cream...*
 
 Well, sort of. It actually started a few hours earlier while reviewing our customer metrics for SoHelpful, our SaaS app.
