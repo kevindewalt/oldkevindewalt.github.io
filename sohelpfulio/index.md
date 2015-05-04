@@ -1,5 +1,5 @@
 ---
-redirect_to: /things_dont_scale/
+redirect_to: /about/
 layout: redirected
 sitemap: false
 title: About

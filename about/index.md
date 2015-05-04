@@ -1,8 +1,8 @@
 ---
 layout: page
-sitemap: false
+sitemap: true
 title: About
-post_image: coldstone.jpg
+page_image: coldstone.jpg
 keywords: ""
 author: "Chiara Cokieng"
 comments: true
