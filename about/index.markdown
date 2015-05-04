@@ -1,7 +1,13 @@
 ---
 layout: page
-title: About Things That Don't Scale
+sitemap: false
+title: About
+post_image: coldstone.jpg
+keywords: ""
+author: "Chiara Cokieng"
+comments: true
 ---
+
 # How we became evangelists for Concierge Onboarding
 ### *Our eureka moment started with Cold Stone ice cream...*
 
@@ -79,6 +85,3 @@ There’s already too much crap on the internet. So no listicles, fluff, and wri
 What are your challenges with conversions? Churn? What would be useful to you?
 
 Email us at [kevin@sohelpful.me](mailto:kevin@sohelpful.me) or [chiara@sohelpful.me](chiara@sohelpful.me)
-
-{% include signup_form.html %}
-
