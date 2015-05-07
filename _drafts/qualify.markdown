@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "How to scale concierge onboarding by identifying your most qualified prospects"
-post_image: IMAGE.jpg
+post_image: babies.jpg
 keywords: ""
 author: "Chiara Cokieng"
 comments: true
-photo_credit: <a href="LINK">WHO THE HELL</a>
+photo_credit: <a href="https://www.flickr.com/photos/scholesyfynn/">Nur Alia Mazalan</a>
 ---
-You know there are [huge benefits](http://customer.io/blog/Concierge-onboarding-doubled-conversions.html) to doing concierge onboarding.
+SaaS founders are discovering [huge benefits](http://customer.io/blog/Concierge-onboarding-doubled-conversions.html) to doing concierge onboarding.
 
 Aside from gaining [customer development](http://blog.sohelpful.io/2015/02/07/concierge-onboarding-is-continuous-customer-development/) insights, which lead to more effective marketing campaigns and a better product… It can almost guarantee an increased conversion rate and consequently, MRR.
 
-You're almost sure to get a paying customer for life. 
+You're almost sure to get a paying customer.
 
 Stop and think about that.
 
@@ -21,50 +21,52 @@ If you spend *just* one hour doing concierge onboarding for 2 people a day, and 
 
 No other activity can give you more bang for 30 minutes of time. And it’s accountable. Unlike A/B testing headlines and landing pages, you can track results quite easily. Just track the people you did concierge onboarding on and see how many of them converted (and how much more money they’re paying you).
 
-The opportunity costs of not doing it are huge as well — 
+The opportunity costs of not doing it are huge as well —
 
 — Getting in front of new eyeballs is incredibly expensive.
-— And frankly, while tempting, it’s also stupid to keep prospecting out there, when you’re not maximizing what you already have.
+— And frankly, while tempting, it’s also stupid to keep prospecting out there when you’re not maximizing what you already have.
 
-###So why don’t people do it?
+###But ... I'm so busy ... won't this take a lot of time?
 
-The number one reason is you’re busy. You don’t have enough time.
-
-Besides, a lot of your free trial users will never convert to paying customers. So they’d be a waste of time.
+This is the most commmon reaction to concierge onboarding from companies who haven't tried it. Sure, a lot of your free trial users will never convert to paying customers - so talking to all of them probably is a waste of time.
 
 The issue then isn’t that concierge onboarding takes too much time… It’s that you’re doing it on the wrong people.
 
-Don’t try to date everyone!
+###Don’t try to date everyone!
 
-All this to say, don’t dismiss concierge onboarding as something you’re too busy to do. Just get smarter about it.
-
-Benefiting from concierge onboarding without a lot of time
-
-You just need to be able to identify your most qualified prospects.
+Don’t dismiss concierge onboarding as something you’re too busy to do. Just get smarter about it by identifying your most qualified prospects and investing in them.
 
 And it’s not fancy, complicated stuff like lead-scoring, etc.
 
 What you need is a way to scan your prospects and quickly qualify them. If you know what to look for, your most qualified prospects are already self-selecting themselves all day long.
 
-###Here’s how we qualify our customers in 5 minutes/day
+##Here’s how we qualify our customers in 5 minutes/day
 
-We look at three things: Who they are, what they do, and how much they’re potentially willing to pay.
+We look at three things:
+
++ Who they are
++ What they do
++ How much they will pay
 
 What do you actually do in real life?
 
-+ Who they are
+### Who they are
 
-The easiest way to do this is to look at the email address.
+Is your new customer the CEO of small company in Manhattan? Or a single founder in Manila?
 
-Depending on your business… Does having a gmail or company email address make a prospect more likely to become a paying customer?
+You can learn a lot by looking at simple data like IP addresses or country bank data in Stripe.
 
-[Customer.io] doesn’t do concierge onboarding on customers with generic addresses like gmail — they've discovered these customers are less likely to convert.
+Sometimes even an email address can tell you a lot.
 
-One of our customers invests more time in gmail customers. Since, they make extensive use of Google's API, trial customers who register with a gmail address are more likely to connect Google to the application and become paying subscribers.
+For instance… Does having a gmail or company email address make a prospect more likely to become a paying customer?
 
-Look at your best customers and see if there’s a pattern to what email address they signed up with.
+Customer.io doesn’t do concierge onboarding on customers with generic addresses like gmail — they've discovered these customers are less likely to convert.
 
-+ What they’ve done
+Other SaaS companies make extensive use of Google's API and invest more time with customers who register with gmail addresses.
+
+Look at your best customers, examine what data you have and look for patterns.
+
+### What they’ve done
 
 Did they fill up their profile? Did they upload a photo? Did they connect to whatever you told them to connect to?
 
@@ -72,7 +74,7 @@ Generally, the more time and thought they’ve invested, the more committed they
 
 Invest your time in subscribers who’ve shown they’re willing to invest in you.
 
-+ How much they’re potentially willing to spend
+### How much they’re potentially willing to spend
 
 What plan did they sign up for?
 
@@ -82,7 +84,7 @@ That’s it. Who they are, what they’ve done, and how much they’re potential
 
 If you do this qualifying process daily and you arrange the data where you can see these three in a glance, this process should take only 5 minutes per day. It will make you a lot of money and save you a lot of time.
 
-— 
+## Can I help you?
 
 Regardless of how many sign ups you’re getting, if your goal is to grow, you have to do concierge onboarding.
 
