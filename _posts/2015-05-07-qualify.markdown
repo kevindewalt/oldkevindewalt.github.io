@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to scale concierge onboarding by identifying your most qualified prospects"
+date: 2015-05-07T09:40:03-04:00
 post_image: babies.jpg
 keywords: ""
 author: "Chiara Cokieng"
