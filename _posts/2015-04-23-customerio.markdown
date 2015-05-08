@@ -37,7 +37,7 @@ Our first step is making sure we're a good fit for customers - if not, nothing e
 
 ###Onboarding emails? Sure, but you have to do them well.
 
-You might expect that a messaging company like Customer.io relies only on email for onboarding - but we don't. Sure, email is awesome - you can instantly deliver targeted, customized messages based on who your customers are or what they're doing in your application. Email plays a critical part of our rentention strategy.
+You might expect that a messaging company like Customer.io relies only on email for onboarding - but we don't. Sure, email is awesome - you can instantly deliver targeted, customized messages based on who your customers are or what they're doing in your application. Email plays a critical part in our retention strategy.
 
 But general onboarding emails are really, really tough to write. Most companies write them (emails) loosey-goosey and just hope. It doesn't work.
 
@@ -47,17 +47,17 @@ We *are* working on a series of onboarding emails… But it’s one of those thi
 
 ###So it's critical that you understand customers.
 
-When I joined Customer.io, I was really eager to talk to customers.
+That's why, when I joined Customer.io, I was really eager to understand customers.
 
-Why do they use it? How? I spent the holidays reading through support tickets.
+Why do they use Customer.io? How? I spent the holidays reading through support tickets.
 
-By doing this, I got a sense of what people are dealing with:
+By doing this, I got a sense of what people are dealing with. Stuff like:
 
-*It’s hard to get up and running.* They're confused when they get in the door.
++ *It’s hard to get up and running.* They're confused when they get in the door.
 
-How do you do something? *They don’t want to look it up.*
++ How do you do something? *They don’t want to look it up.*
 
-Can your tool do this? Or, I want to do this. *Help me figure it out.*
++ Can your tool do this? Or, I want to do this. *Help me figure it out.*
 
 If I hadn’t done that, I wouldn’t know what our customers cared about… You need that understanding to both market to and retain customers.
 
