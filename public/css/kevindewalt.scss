@@ -1,3 +1,10 @@
+//variables
+
+$primary-color: #AC4142;
+$light-color: #FFDADB;
+$spacing-unit: 5px;
+
+
 //media queries
 
 
@@ -84,4 +91,25 @@ h2 {
 //  background:#fff;
   clear:left;
 //  font:14px Helvetica, Arial, sans-serif;
+}
+
+//sharing
+
+.share-page {
+    text-align: center;
+    background: $primary-color;
+    color: $light-color;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 1.5 * $spacing-unit 0;
+
+    a.sharelink {
+        font-weight: 700;
+        color: #fff;
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 1px #fff;
+        }
+    }
 }

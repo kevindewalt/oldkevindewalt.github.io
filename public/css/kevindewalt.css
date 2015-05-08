@@ -46,3 +46,17 @@ h2 {
 
 #mc_embed_signup {
   clear: left; }
+
+.share-page {
+  text-align: center;
+  background: #ac4142;
+  color: #ffdadb;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin: 7.5px 0; }
+  .share-page a.sharelink {
+    font-weight: 700;
+    color: #fff;
+    margin-left: 10px; }
+    .share-page a.sharelink:hover {
+      border-bottom: 1px #fff; }
