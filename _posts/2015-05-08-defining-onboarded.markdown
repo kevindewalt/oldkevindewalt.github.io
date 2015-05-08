@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to know when your customer is onboarded"
+date: 2015-05-08T13:19:49-04:00
 post_image: train_small.jpg
 keywords: ""
 author: "Kevin Dewalt"
