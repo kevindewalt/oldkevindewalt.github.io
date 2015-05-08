@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "How to know when your customer is onboarded"
-date: 2015-05-08T13:19:49-04:00
 post_image: train_small.jpg
 keywords: ""
 author: "Kevin Dewalt"
@@ -12,7 +11,7 @@ tl;dr - A SaaS customer who **pays twice** (monthly plan) or **pays once and use
 
 <br>
 
- Yes, yes ... I know ... I am a bit obsessive. I guess it just comes with being an entrepreneur.
+ Yes, yes ... I know ... I am a bit obsessive. Only the truly obsessed would bother to write a blog post about definitions. I guess it just comes with being an entrepreneur, but having a common language is important. So I obsess about things like the actual definition of "onboarding".
 
 I spent the past 6 months talking to other SaaS product founders about onboarding. How they do it. What works. What doesn’t.
 
@@ -24,9 +23,9 @@ To paraphrase a conversation I had with Ville Laurikari, founder of [PressRush](
 
 ## When are your customers “onboarded”?
 
-Ville is right. Google “onboarding” and you’ll mostly find tech and product discussions about sign-up workflow, improving UI. But nobody has really defined it.
+Ville is right. Google “onboarding” and you’ll find product discussions about sign-up workflow, improving UI. But nobody has really defined it.
 
-When know when it begins - when customer signs up for our product. But when does it end? When does a customer enter the "onboarded" state?
+We know when onboarding begins - when customer signs up for our product. But when does it end? When does a customer enter the "onboarded" state?
 
 When they finish signing up?
 
@@ -79,12 +78,12 @@ But it is one you can consistently measure across time … across product change
 
 <u>Onboarded Group</u> - Any active, paying subscriber who
 
-* Has paid 2x or more (monthly)
-* Has paid 1x and use the product for more than 60 days (quarterly or longer plan)
+* Has paid 2x or more (monthly plan)
+* Has paid 1x and used the product for more than 60 days (quarterly or longer plan)
 
-<u>Not Onboarded Group</u> - Basically, everyone else. A customer whose
+<u>Not Onboarded Group</u> - Basically, everyone else. A customer who
 
-* Trial period started more than 60 days ago and never paid.
+* Signed up more than 60 days ago and never paid.
 * Had a subscription and canceled.
 
 ### Step 2 - Identify qualifying criteria for your Onboarded Group
