@@ -97,13 +97,13 @@ Your goal is to find more customers like this, invest in them during the onboard
 
 ### Step 3 - Qualify your Onboarding Customers
 
-Using [Chiara’s guideline]({{site.blogurl}}/qualify), review everyone in your Currently Onboarding group and qualify them based on the criteria from Step 2.
+Using [Chiara’s guideline]({{site.blogroot}}/qualify), review everyone in your Currently Onboarding group and qualify them based on the criteria from Step 2.
 
 These are your <u>Qualified Onboarding Customers</u>.
 
 ### Step 4 - Invest in your Qualified Onboarding Customers
 
-Now take a few weeks to invest time in this group. I don't suggest you spend a lot of time doing product work - instead contact them, look at their goals, and if possible get them on [a coaching call]({{site.blogurl}}/hire-coaches-to-do-saas-onboarding/).
+Now take a few weeks to invest time in this group. I don't suggest you spend a lot of time doing product work - instead contact them, look at their goals, and if possible get them on [a coaching call]({{site.blogroot}}/hire-coaches-to-do-saas-onboarding/).
 
 Follow this approach and you'll free yourself from the silly product and UI issues that customers don't really care about it. Instead, you'll be investing in real relationships with the people who have the most potential to generate value for your business.
 
