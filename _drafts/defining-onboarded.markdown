@@ -11,7 +11,7 @@ tl;dr - A SaaS customer who **pays twice** (monthly plan) or **pays once and use
 
 <br>
 
- Yes, yes ... I know ... I am a bit obsessive. I guess it just comes with being an entrepreneur.
+ Yes, yes ... I know ... I am a bit obsessive. Only the truly obsessed would bother to write a blog post about definitions. I guess it just comes with being an entrepreneur, but having a common language is important. So I obsess about things like the actual definition of "onboarding".
 
 I spent the past 6 months talking to other SaaS product founders about onboarding. How they do it. What works. What doesn’t.
 
