@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "For these startups, concierge onboarding is not worth it"
+title: "Is concierge onboarding right for your business?"
 post_image: hotdogs.jpg
 keywords: ""
 author: "Chiara Cokieng"
@@ -8,29 +8,28 @@ comments: true
 photo_credit: <a href="https://www.flickr.com/photos/cooperweb/">Keith Cooper</a>
 ---
 
-Hot dog stands and other types of startups who shouldn't do concierge onboarding.
+<!--TITLE ideas:
+How to tell if concierge onboarding is right for your business
+Concierge onboarding is a bad fit for 3 types of products
+ -->
+
+Nope. Hot dog stands shouldn't do concierge onboarding.
 
 <br>
 
-We’ve mostly talked about the benefits of concierge onboarding.
+We’ve written a lot about the benefits of [concierge onboarding](/about) - but it isn't for every business and may not be for you.
 
-In this post, we talk about who it is *not* for. Because concierge onboarding is definitely not for everyone.
+###Concierge onboarding gets your customers engaged in a dialog
 
-Yes, you can scale concierge onboarding by [qualifying customers](http://blog.sohelpful.io/blog/qualify/) and [hiring coaches to do it](http://blog.sohelpful.io/blog/hire-coaches-to-do-saas-onboarding/)… But for three types of companies, concierge onboarding is just not worth doing.
+That's the main benefit concierge onboarding can deliver - and it is what lifecycle emails, tool tips, and UI changes cannot do.
 
-###What concierge onboarding can accomplish that lifecycle emails, tool tips, and UI optimizations cannot
+Dialogue gets you customer insight, which is why [concierge onboarding is continuous customer development](/2015/02/07/concierge-onboarding-is-continuous-customer-development). This insight is also the foundation for getting him to think - and therefore behave - differently.
 
-The ability to engage a customer in a dialogue.
-
-That's the main benefit concierge onboarding can deliver, which popular onboarding methods (lifecycle emails, tool tips, etc.) cannot.
-
-Dialogue lets you understand where the customer is coming from, which forms the foundation for getting him to think differently, and therefore, do things differently.
-
-For three types of companies, this is overkill. You don’t need the customer to think and act differently. You just need him to pick you over the competition.
+But for three types of companies, this is overkill. You don’t need the customer to think and act differently. You just need him to pick you over the competition.
 
 ###Three types of companies where concierge onboarding is overkill
 
-	1. You’re looking for a one-time sale, not a subscription. 
+	1. You’re looking for a one-time sale, not a subscription.
 
 Since people buy on emotion, telling a persuasive and compelling story is enough to drive **a one-time sale**.
 
@@ -40,7 +39,7 @@ With one-time sales, people look at the book on the shelf that they never opened
 
 Not so with subscriptions. Every time a customer gets billed, he questions your product's value.
 
-	2. Simple — Your product can be put alongside other known products on a shelf. 
+	2. Simple — Your product can be put alongside other known products on a shelf.
 
 For simple products, behavioral emails and UI changes are enough — customers are sold on the problem and solution, you just need to nudge them towards *yours*.
 
@@ -58,7 +57,9 @@ To flip this...
 
 **1. You charge a subscription.** And therefore, need your customers to change their behavior and use your product regularly.
 
-**2. Your SaaS app is complex.** You’re doing something disruptive. You need to sell the customer not only on choosing *your* company as a provider, but that he even has a problem worth taking action on.
+**2. Your product is complex.** You’re doing something disruptive. You need to sell the customer not only on choosing *your* company as a provider, but that he even has a problem worth taking action on.
+
+Note: your product is probably much more complex than you realize.
 
 **3. You compete on value.** You strategy is to price high and provide 10x the value.
 
