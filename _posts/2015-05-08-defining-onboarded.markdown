@@ -67,6 +67,7 @@ A perfect definition? Nope.
 
 But it is one you can consistently measure across time … across product changes, pivots, and customer segments.
 
+<a name="3steps"></a>
 ## How to use this definition to grow your SaaS MRR.
 
 ### Step 1 - Divide your customers into 3 groups

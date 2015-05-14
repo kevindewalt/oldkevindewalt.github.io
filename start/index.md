@@ -10,7 +10,7 @@ comments: true
 
 {% include signup_form.html %}
 
-This site is for B2B SaaS apps.
+This site is for founders, customer success &amp; onboarding specialists at B2B SaaS apps.
 
 Here you'll learn about the concierge onboarding movement, how SaaS companies are using it to learn what their customers want and double (or greater) their trial-to-paid conversion.
 
@@ -18,25 +18,23 @@ And ... yes ... you'll learn how you can do it too.
 
 # What is "concierge onboarding?" And why do we care so much about it?
 
-Let's start with a fairy tale called *The Magical Money Machine*.
+Let's start with a fairy tale called *The SaaS Magical Money Machine*.
 
 <img class="post-image" src = "{{site.image_url}}/castle.jpg">
 
-### The Magical Money Machine
+### The SaaS Magical Money Machine
 
-Once upon a time ...
+*Once upon a time ...*
 
 Joe and his friends had an idea for a SaaS app. They did customer development, built and MVP, and customers started using it.
 
-Every month they diligently worked away getting the product better, built more features and analyzed data. They discovered points of friction in their application and began solving them with onboarding emails, targeted messaging, and better UI.
+Every month they diligently worked at getting the product better, building more features and analyzing data. They discovered points of customer friction and began solving them with onboarding emails, targeted messaging, and better UI.
 
-Gradually their important metrics: conversion percentages, churn, lifetime value all got better and better.
+Each month conversion percentages, churn, and lifetime value all got better and better. They started doing growth hacking to drive more customers into their application...and the money rolled in.
 
-They raised an A round of funding to do advertising and content marketing to drive more customers into the front of their application.
+With a sticky product, growth strategy, and fixed costs Joe and his friends created a SaaS Magical Money Machine that made all of them rich.
 
-With a sticky product, growth strategy, and fixed costs Joe and his friends created a Magical Money Machine that made all of them rich.
-
-Two years later they sold to Salesforce and spent the rest of their days hanging out with Jason Fried and Derek Sivers.
+Two years later they sold to Salesforce and spent the rest of their lives hanging out with Derek Sivers.
 
 The end.
 
@@ -48,23 +46,27 @@ It didn't work that way for us - we needed to get most of customers on the phone
 
 > We just couldn't convert customers without getting them on the phone. We thought it was because our product onboarding sucked - but we learned it was more about them.
 
-Then we started talking to more successful companies like [Customer.io]({{site.blogroot}}/customerio), [Helpscout]({{site.blogroot}}/helpscout), [Drip]({{site.blogroot}}/robwalling) - and learned how much they "did things that don't scale" to get cutomers using their products.
+Then we started talking to more successful companies like [Customer.io]({{site.blogroot}}/customerio), [Helpscout]({{site.blogroot}}/helpscout), [Drip]({{site.blogroot}}/robwalling), and [PayByPhone]({{site.blogroot}}/davidspittel/) - and learned how much they "did things that don't scale" to get cutomers using their products.
 
-There is no Magical Money Machine - you're going to have to work hard to convert your trial customers to subscribers or lose to someone who does.
+There is no SaaS Magical Money Machine, no way to make happy paying customers with data and products alone.
 
 ### Real SaaS companies do "concierge" onboarding
 
-It turns out customers don't always know what they want. They're not always ready to make the behavior changes necessary to use your product. And they're overwhelmed with everyone else trying to sell them stuff.
+In the real world, customers:
 
-These are all barriers that prevent them from becoming a paying subscriber - barriers that are really, really hard to overcome with technology.
++ don't always know what they want,
++ or understand their problems,
++ and they're not ready to make the behavior changes necessary to use your product.
+
+So they sign up ... poke around ... and disapear because these barriers are hard to overcome with technology.
 
 It's actually **easier to increase conversions by getting customers on a call - a process called "concierge" onboarding**.
 
 More at:
 
-[How we became concierge onboarding evangelists](http://blog.sohelpful.io/about/)
+[How we became concierge onboarding evangelists](/about/)
 
-[Dont' start your SaaS app with lifecycle emails](http://blog.sohelpful.io/blog/lifecycle/)
+[Dont' start your SaaS app with lifecycle emails]({{site.blogroot}}/lifecycle/)
 
 # Is concierge onboarding for you?
 
@@ -81,7 +83,7 @@ Ok, that sounds like an bad TV informercial - and it isn't true because concierg
 ### You can probably stop reading now if ...
 
 1. You're building a **free, ad-driven** consumer product.
-2. You have an **expensive product** sold at the CXO level through a dedicated sales force.
+2. You have an **expensive product** sold top-down at the CXO level through a dedicated sales force.
 
 ### This is for you if ...
 
@@ -91,58 +93,110 @@ Ok, that sounds like an bad TV informercial - and it isn't true because concierg
 
 ### And this is a complete ... no-brainer ... you're-losing-money-by-NOT-doing-this (and causing this poor puppy to cry) if ...
 
-1. Your product requires customers to **change behavior**.
+1. You are pre-product/market fit and looking for insight.
+2. Your product requires customers to **change behavior**.
 2. You're selling a product priced between **$20-$1,000/month**.
 
 <img class="post-image" src = "{{site.image_url}}/sad_puppy.jpg">
 
 Allright, I made up the part about the crying puppy.
 
-But most B2B SaaS apps are in this category. The successful ones are doing concierge onboarding because they need a cost-effective way to convert their most qualified trial customers into paying subscribers.
+But **most B2B SaaS apps are in this situation**. The successful ones are doing concierge onboarding because they need a cost-effective way to convert their most qualified trial customers into paying subscribers.
 
-More at [How to tell if concierge onboarding is right for your business](http://blog.sohelpful.io/blog/challenger/)
+More:
 
+[How to tell if concierge onboarding is right for your business]({{site.blogroot}}/challenger/)
 
-Like most SaaS apps, we spent way too much time thinking lack of prospects at the "top of the funnel" was causing our slow growth. Here's [.
-
-What's "onboarded" anyway? The most popular definition is 'once a user achieves “initial success” with your product' but plenty of our trial customers take a critical step, get some “First Value” - and then abandon the product a week later. So here's a more practical definition:
-[How to know when your customer is onboarded](http://blog.sohelpful.io/blog/defining-onboarded/).
+[Concierge Onboarding is Continuous Customer Development]({{site.blogroot}}/concierge-onboarding-is-continuous-customer-development/)
 
 
-**This sounds like a lot of work. Can’t I just send auto-responders?**
+# Create your concierge onboarding strategy
 
-No, .
+### Have a clear, measurable objective
 
-Why? Because [Concierge Onboarding is Continuous Customer Development](http://blog.sohelpful.io/2015/02/07/concierge-onboarding-is-continuous-customer-development/)
+Do you know *when* your customers are onboarded? Do the people on your team have a common definition of what it means to be onboarded.
 
-Listen to [Help Scout: Learn everything there is to learn, and then automate](http://blog.sohelpful.io/2015/02/07/concierge-onboarding-is-continuous-customer-development/).
+We like simple, measurable metrics and define onboarded as ...
 
-**Enough theory - Here are the tactics to grow your MRR**
+> A SaaS customer who pays twice (monthly plan) or pays once and use a product for more than 60 days (quarterly and longer plan) is “onboarded”.
 
-First things first, spend time with only your most qualified customers. [How to scale concierge onboarding](http://blog.sohelpful.io/blog/qualify/ ) by not trying to date everyone.
+More:
 
-**Now get ‘em on the phone: (coming soon)**
+[How to know when your customer is onboarded]({{site.blogroot}}/defining-onboarded/)
+
+### Divide your customers into 3 groups
+
+<u>Still Onboarding Group</u> - Anyone who signed up for your product within the last 60 days who
+
+* Hasn’t paid twice (monthly plan)
+* Has paid once and use the product for < 60 days (quarterly or longer plan)
+
+<u>Onboarded Group</u> - Any active, paying subscriber who
+
+* Has paid 2x or more (monthly plan)
+* Has paid 1x and used the product for more than 60 days (quarterly or longer plan)
+
+<u>Not Onboarded Group</u> - Basically, everyone else. A customer who
+
+* Signed up more than 60 days ago and never paid.
+* Had a subscription and canceled.
+
+### Identify qualifying criteria for your Onboarded Group
+
+Review the customers in your <u>Onboarded Group</u> who are providing the most value to you. Identify their common characteristics.
+
+* Who are they?
+* What have they done in your application?
+* What plan have they signed up for?
+
+Your goal is to find more customers like this, invest in them during the onboarding process and try to convert them.
+
+### Qualify your Still Onboarding Customers
+
+Now review everyone in your <u>Still Onboarding Group</u> group and qualify them based on the criteria from Step 2.
+
+These are your <u>Qualified Onboarding Customers</u>.
+
+More:
+
+[How to scale concierge onboarding by identifying your most qualified prospects]({{site.blogroot}}/qualify)
+
+# Start converting your most qualified customers
+
+Now take a few weeks to invest time in this group. I don't suggest you spend a lot of time doing product work - instead contact them, look at their goals, and get them on a call to help them achieve them.
+
+### Now get ‘em on the phone: (coming soon)
 
 + Save time, get them to self-schedule with you
 + Nobody wants to talk to salse or support. Positioning the call as a learning opportunity
 
-**What do you talk about? (coming soon)**
+More:
+
+[Some examples and best practices of effective welcome emails]({{site.blogroot}}/onboarding_emails/)
+
+### What do you talk about? (coming soon)
 
 + Getting customers to take action by doing GROW coaching
 + Dominate like Nordstrom by helping customers figure out what they need
 
-**Don't fall into these mine fields (coming soon)**
+More: [Grow coaching]({{site.blogroot}}/hire-coaches-to-do-saas-onboarding/).
 
-+ The art of the follow up
-> We lost a lot of money learning this lesson...
+
+### Don't fall into these mine fields (coming soon)
+
++ The art of the follow up power of pig-headed determination
 + Why nobody wants to take your demo and what to do instead
 + Nobody wants to get you to coach them either...
-+ Pig-headed determination
 
-**Wrap-up: scaling concierge onboarding**
 
-+ [Hire coaches to do SaaS onboarding](http://blog.sohelpful.io/blog/hire-coaches-to-do-saas-onboarding/)
-+ Is good customer service worth it? (coming soon)
+### Up, up, and away: scaling concierge onboarding (coming soon)
+
++ Hiring your first onboarding specialist
++ Is good customer service worth it?
+
+More:
+
+[Hire coaches to do SaaS onboarding]({{site.blogroot}}/hire-coaches-to-do-saas-onboarding/)
 
 
 {% include signup_form.html %}
