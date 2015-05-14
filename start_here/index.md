@@ -21,7 +21,7 @@ Like most SaaS apps, we spent way too much time thinking lack of prospects at th
 What's "onboarded" anyway? The most popular definition is 'once a user achieves “initial success” with your product' but plenty of our trial customers take a critical step, get some “First Value” - and then abandon the product a week later. So here's a more practical definition:
 [How to know when your customer is onboarded](http://blog.sohelpful.io/blog/defining-onboarded/).
 
-Maybe you shouldn't do concierge onboarding (who this is not for) (COMING SOON)
+Maybe you shouldn't do concierge onboarding... [How to tell if concierge onboarding is right for your business](http://blog.sohelpful.io/blog/challenger/)
 
 **This sounds like a lot of work. Can’t I just send auto-responders?**
 
