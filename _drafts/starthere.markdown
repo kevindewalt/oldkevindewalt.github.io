@@ -14,50 +14,46 @@ This site is for B2B SaaS apps. You'll learn about the concierge onboarding move
 
 **Why concierge onboarding? Is this for you?**
 
-Like most SaaS apps, we spent way too much time thinking lack of prospects at the "top of the funnel" was causing our slow growth. Here's [how we became concierge onboarding evangelists](http://blog.sohelpful.io/about/)
+Like most SaaS apps, we spent way too much time thinking lack of prospects at the "top of the funnel" was causing our slow growth. Here's [how we became concierge onboarding evangelists](http://blog.sohelpful.io/about/).
 
-What's "onboarded" anyway? The most popular definition is 'once they’ve achieved “initial success” with your product' but plenty of our trial customers take a critical step, get some “First Value” - and then abandon the product a week later. So here's a more practical definition:
+What's "onboarded" anyway? The most popular definition is 'once a user achieves “initial success” with your product' but plenty of our trial customers take a critical step, get some “First Value” - and then abandon the product a week later. So here's a more practical definition:
 [How to know when your customer is onboarded](http://blog.sohelpful.io/blog/defining-onboarded/).
 
 Maybe you shouldn't do concierge onboarding (who this is not for) (COMING SOON)
 
-*This sounds like too much work. Can’t I just send auto-responders?*
+**This sounds like a lot of work. Can’t I just send auto-responders?**
 
 No, [dont' start your SaaS app with lifecycle emails](http://blog.sohelpful.io/blog/lifecycle/).
 
-Why? Because [Concierge Onboarding is Continuous Customer Development](http://blog.sohelpful.io/2015/02/07/concierge-onboarding-is-continuous-customer-development/) and you should learn from [Help Scout: learn everything there is to learn, and then automate](http://blog.sohelpful.io/2015/02/07/concierge-onboarding-is-continuous-customer-development/).
+Why? Because [Concierge Onboarding is Continuous Customer Development](http://blog.sohelpful.io/2015/02/07/concierge-onboarding-is-continuous-customer-development/) 
 
-**Enough theory - Let’s grow your MRR**
+Listen to [Help Scout: Learn everything there is to learn, and then automate](http://blog.sohelpful.io/2015/02/07/concierge-onboarding-is-continuous-customer-development/).
 
-First things first, spend time with only the most qualified customers. [How to scale concierge onboarding](http://blog.sohelpful.io/blog/qualify/ ) by not trying to date everyone.
+**Enough theory - Here are the tactics to grow your MRR**
 
-5. Now get ‘em on the phone
-—Try calling? Mostly just reinforce.
-—Get them to schedule
-—Positioning
-—Try, try again
+First things first, spend time with only your most qualified customers. [How to scale concierge onboarding](http://blog.sohelpful.io/blog/qualify/ ) by not trying to date everyone.
 
-6. Skip the technobabble by helping them GROW 
-—What to talk about - GROW
-—Nordstrom (kevin to write this)
+**Now get ‘em on the phone: (coming soon)**
 
-7. SoHelpful.io (sales email)
-—How to decide
-—Just try it
-—Tell you what to do
++ Save time, get them to self-schedule with you
++ Nobody wants to talk to salse or support. Positioning the call as a learning opportunity
 
-8. Follow up. Again … and again
-—Reminder on SoHelpful.io (you can skip this stuff)
-“We lost a lot of money learning this lesson - 
+**What do you talk about? (coming soon)**
 
-9. Mine fields. Don’t do this stuff
-—Demo?
-—“Coaching”
-— Worry about bugging them too much (pig-headed determination quote)
++ Getting customers to take action by doing GROW coaching
++ Dominate like Nordstrom by helping customers figure out what they need
 
-10. Wrap-up: scaling concierge onboarding
---HIre coaches  http://blog.sohelpful.io/blog/hire-coaches-to-do-saas-onboarding/
---Is good customer service worth it? (Zappos)
+**Don't fall into these mine fields (coming soon)**
 
++ The art of the follow up
+> We lost a lot of money learning this lesson...
++ Why nobody wants to take your demo and what to do instead
++ Nobody wants to get you to coach them either...
++ Pig-headed determination
+
+**Wrap-up: scaling concierge onboarding**
+
++ [Hire coaches to do SaaS onboarding](http://blog.sohelpful.io/blog/hire-coaches-to-do-saas-onboarding/)
++ Is good customer service worth it? (coming soon)
 
 *What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*

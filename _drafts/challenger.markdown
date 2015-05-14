@@ -1,17 +1,12 @@
 ---
 layout: post
-title: "Is concierge onboarding right for your business?"
+title: "How to tell if concierge onboarding is right for your business"
 post_image: hotdogs.jpg
 keywords: ""
 author: "Chiara Cokieng"
 comments: true
 photo_credit: <a href="https://www.flickr.com/photos/cooperweb/">Keith Cooper</a>
 ---
-
-<!--TITLE ideas:
-How to tell if concierge onboarding is right for your business
-Concierge onboarding is a bad fit for 3 types of products
- -->
 
 Nope. Hot dog stands shouldn't do concierge onboarding.
 
@@ -38,6 +33,8 @@ If you sell books, training courses, and information products, you don’t need 
 With one-time sales, people look at the book on the shelf that they never opened and think, “Oh well."
 
 Not so with subscriptions. Every time a customer gets billed, he questions your product's value.
+
+Every renewal is a new sale.
 
 	2. Simple — Your product can be put alongside other known products on a shelf.
 
