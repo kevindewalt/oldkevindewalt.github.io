@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why product demos are costing you sales"
+date: 2015-05-18T19:53:44-04:00
 post_image: asleep.jpg
 keywords: ""
 author: "Kevin Dewalt"
