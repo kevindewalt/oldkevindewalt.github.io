@@ -92,10 +92,26 @@ h2 {
 }
 
 //mailchimp
-#mc_embed_signup {
-//  background:#fff;
-  clear:left;
-//  font:14px Helvetica, Arial, sans-serif;
+
+.subscribe-block {
+ background: $light-color;
+ border-radius: 5px;
+ padding: 10px 15px;
+
+ .email {
+   width: 20rem;
+   font-size: .8rem;
+ }
+
+ .button {
+   font-size: .8rem;
+   -webkit-appearance: button;
+   color: white;
+   background: $primary-color;
+   border: none;
+   border-radius: 3px;
+ }
+
 }
 
 //sharing

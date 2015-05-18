@@ -47,8 +47,20 @@ h2 {
 .copyright {
   font-size: .6rem; }
 
-#mc_embed_signup {
-  clear: left; }
+.subscribe-block {
+  background: #ffdadb;
+  border-radius: 5px;
+  padding: 10px 15px; }
+  .subscribe-block .email {
+    width: 20rem;
+    font-size: .8rem; }
+  .subscribe-block .button {
+    font-size: .8rem;
+    -webkit-appearance: button;
+    color: white;
+    background: #ac4142;
+    border: none;
+    border-radius: 3px; }
 
 .share-page {
   text-align: center;
