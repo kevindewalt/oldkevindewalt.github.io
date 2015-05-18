@@ -20,11 +20,13 @@ Oh, I've got it: It's because YOU always use demos before trialing a SaaS produc
 
 ####1. Demos start the conversation about your product - not the customer
 
-I've got some bad news for you: customers don't have a clue how you're different other products. You'll notice I said "other products" - not "your competitors". Everything promises to save money, save time, or make money - customers just tune it all out.
+I've got some bad news for you: customers don't have a clue how you're different other products. You'll notice I said "other products" - not "your competitors".
+
+Everything promises to save money, save time, or make money - customers just tune it all out.
 
 Intercom, Mixpanel, and Customer.io?  Dropbox and Box.net? You may see the differences between these products but your customers probably don't. Sales research across industries confirms this.
 
-And so what if actually IS a product difference between you and a competitor?
+And if there really is a product difference between you and a competitor?
 
 It probably doesn't matter. Any other product is weeks or months away from copying your core features.
 
@@ -42,28 +44,30 @@ Most serious customers don't want to sit through a demo. They want to quickly ge
 
 Great salespeople take charge of the conversation and educate customers about better way to help them achieve their goals.
 
-I'm (nowhere near) a great salesperson but I always make sure I start my concierge onboarding converations by confirming that I understand the customer's goals. I then spend a few minutes talking about how I've helped other customers achieve them.
+I'm (nowhere near) a great salesperson but I always start my concierge onboarding converations by confirming that I understand the customer's goals. I then spend a few minutes talking about how I've helped other customers achieve them.
 
-I'm not afraid to push back and engage in a polite discussion about why I advocate a strategy.
+I'm not afraid to push back and engage in a polite discussion about why I advocate a strategy. I try to lead, and the best customers love it.
 
 I never get a chance to have this discussion with a demo - instead we talk about silly things like features and colors. In these discussions I'm just following the customer, answering questions.
 
 Why is following so bad? For the same reason responding to an RFP is a bad idea. It puts you in a positon of competing on price.
 
-##A better idea: don't lead WITH your solution, lead TO your solution
+##A better idea: Don't lead WITH your solution, lead TO your solution
 
 > [The best sales reps] win ... by actually knowing their customers' world *better* than their customers know it themselves, teaching them what they don't know but should.
 --The Challenger Sale
 
-Take charge of the sale. Two great books are [The Ultimate Sales Machine](http://www.amazon.com/Ultimate-Sales-Machine-Turbocharge-Relentless-ebook/dp/B000SMQGLC/ref=sr_1_1?s=books&ie=UTF8&qid=1431988917&sr=1-1&keywords=the+ultimate+sales+machine) by Chet Holmes and [The Challenger Sale](http://www.amazon.com/The-Challenger-Sale-Customer-Conversation/dp/1591844355) by Matthew Dixon. We adapt the ideas in these books to SaaS sales and conversions.
+Take charge of the sale. Two great books are [The Ultimate Sales Machine](http://www.amazon.com/Ultimate-Sales-Machine-Turbocharge-Relentless-ebook/dp/B000SMQGLC/ref=sr_1_1?s=books&ie=UTF8&qid=1431988917&sr=1-1&keywords=the+ultimate+sales+machine) by Chet Holmes and [The Challenger Sale](http://www.amazon.com/The-Challenger-Sale-Customer-Conversation/dp/1591844355) by Matthew Dixon.
+
+We adapt the ideas in these books to SaaS sales and conversions.
 
 Look for ways to position yourself as a strategic partner and educator, an organization always looking ahead to tomorrow's challenge. Write an email course. Write a book.
 
 Or just offer free trials and do [concierge onboarding with GROW coaching techniques](/start).
 
 ####But X company is great! Why do they have a demo?
-Some of the companies with the best sales organizations offer demos. So what's the deal.
+Some companies with top sales organizations offer demos. So what's the deal?
 
-Sure ... they OFFER demos - but what actualy happens on the demo itself? Most of the time they are using the demo offer as a way of filling the front-end of their sales pipeline. When they get qualified leads they take charge of the sale just like I describe above.
+Sure ... they OFFER demos - but what actualy happens on the demo itself? They're probably using the demo offer as a way of filling the front-end of their sales pipeline. When they get qualified leads they take charge of the sale just like I describe above.
 
-But they're not starting the conversation by talking about their products - and you shouldn't either.
+They're not starting the conversation by talking about their products - and you shouldn't either.
