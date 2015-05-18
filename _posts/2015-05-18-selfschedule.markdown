@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Want to get a customer on the phone? Don’t ask when he’s free."
+date: 2015-05-18T10:35:13-04:00
 post_image: nope.png
 keywords: ""
 author: "Chiara Cokieng"
