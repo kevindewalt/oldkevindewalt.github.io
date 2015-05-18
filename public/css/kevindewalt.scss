@@ -2,6 +2,7 @@
 
 $primary-color: #AC4142;
 $light-color: #FFDADB;
+$lighter-color: #FFF4f5;
 $spacing-unit: 5px;
 
 
@@ -94,7 +95,7 @@ h2 {
 //mailchimp
 
 .subscribe-block {
- background: $light-color;
+ background: $lighter-color;
  border-radius: 5px;
  padding: 10px 15px;
 
