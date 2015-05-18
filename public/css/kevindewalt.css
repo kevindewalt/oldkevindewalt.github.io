@@ -54,6 +54,9 @@ h2 {
   .subscribe-block .email {
     width: 20rem;
     font-size: .8rem; }
+    @media (max-width: 48em) {
+      .subscribe-block .email {
+        width: 15rem; } }
   .subscribe-block .button {
     font-size: .8rem;
     -webkit-appearance: button;

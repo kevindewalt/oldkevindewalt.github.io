@@ -29,7 +29,7 @@ I deleted the emails. Why? Well, I *wanted* to get on a call with them… **But 
 
 I realized *why* when a few friends and I were trying to figure out where to eat.
 
-###"Where do you want to eat?" and questions people hate to answer
+##"Where do you want to eat?" and questions people hate to answer
 
 Someone started the conversation by asking, "Where do you want to eat?"
 
@@ -52,7 +52,7 @@ In fact, science supports this:
 It’s the same with scheduling — your customers hate getting the “When are you free?” question.
 
 
-###If you want to help someone decide, limit his choices.
+##If you want to help someone decide, limit his choices.
 
 “I’m game for Chinese or Japanese,” someone finally says.
 
@@ -63,6 +63,8 @@ Someone responds, “What about X or Y?”
 “Yeah, Y sounds like a good idea.”
 
 Because we were given Chinese or Japanese to think about, our friend helped us think of specific restaurants we want. And if we don't want Asian? Well, at least he helped us realized that. We can even say, "Let's go with Italian instead."
+
+##Give customers specific times and let them self-schedule
 
 This is, of course, the same with scheduling.
 

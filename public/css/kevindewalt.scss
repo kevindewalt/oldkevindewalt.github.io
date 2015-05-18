@@ -101,6 +101,10 @@ h2 {
  .email {
    width: 20rem;
    font-size: .8rem;
+   @include mq-phone {
+     width: 15rem;
+   }
+
  }
 
  .button {
