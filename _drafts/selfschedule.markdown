@@ -33,7 +33,7 @@ I realized *why* when a few friends and I were trying to figure out where to eat
 
 Someone started the conversation by asking, "Where do you want to eat?"
 
-I found myself cringing. I predicated what will happen…
+I found myself cringing. I predicted what will happen…
 
 Each of us will look blankly at each other. We’ll take turns saying, "I don’t know. Where do *you* want to eat?"
 
