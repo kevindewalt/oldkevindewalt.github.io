@@ -4,7 +4,7 @@
 
 h1.title {
   font-size: 2.5rem;
-  margin-bottom: 3rem; }
+  margin-bottom: 1.8rem; }
 
 h2.subtitle {
   color: white;
@@ -28,6 +28,9 @@ h2 {
 
 .sidebar {
   padding: .5rem 1rem; }
+  .sidebar .sidebar-nav-item {
+    line-height: 1.4rem;
+    font-size: .85rem; }
 
 #sidebar-details .twitterurls {
   font-size: 18px;

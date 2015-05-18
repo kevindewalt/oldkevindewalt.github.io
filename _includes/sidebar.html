@@ -6,9 +6,11 @@
           {{ site.title }}
         </a>
       </h1>
+      <!--
       <h2 class="subtitle">
           {{ site.subtitle }}
       </h2>
+        -->
       <div class="no-phone" id="sidebar-details">
         <div class="twitterurls">{{ site.twitter_url}}</div>
         <div class="headshots">
@@ -38,8 +40,8 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <a href="http://try.sohelpful.io/concierge.html" target='_blank'>Free course</a><br>
-      <a href="http://try.sohelpful.io" target='_blank'>Try SoHelpful.io for free</a>
+      <a class="sidebar-nav-item" href="http://try.sohelpful.io/concierge.html" target='_blank'>Free course</a>
+      <a class="sidebar-nav-item" href="http://try.sohelpful.io" target='_blank'>Try SoHelpful.io for free</a>
     </nav>
     <small class="copyright no-phone">&copy; {{ site.time | date: '%Y' }}. All rights reserved, ManyWheels Inc.</small>
   </div>
