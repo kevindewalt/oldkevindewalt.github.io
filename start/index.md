@@ -167,7 +167,7 @@ Now take a few weeks to invest time in this group. I don't suggest you spend a l
 
 ### Now get ‘em on the phone: (coming soon)
 
-+ Save time, get them to self-schedule with you
++ [Want to get a customer on the phone? Don't ask when he's free.](http://blog.sohelpful.io/blog/selfschedule/) 
 + Nobody wants to talk to salse or support. Positioning the call as a learning opportunity
 
 More:
@@ -185,7 +185,7 @@ More: [Grow coaching]({{site.blogroot}}/hire-coaches-to-do-saas-onboarding/).
 ### Don't fall into these mine fields (coming soon)
 
 + The art of the follow up power of pig-headed determination
-+ Why nobody wants to take your demo and what to do instead
++ [Why product demos are costing you sales](http://blog.sohelpful.io/blog/nodemo/)
 + Nobody wants to get you to coach them either...
 
 
