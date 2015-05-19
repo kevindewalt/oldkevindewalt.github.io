@@ -107,7 +107,7 @@ More:
 
 [How to tell if concierge onboarding is right for your business]({{site.blogroot}}/challenger/)
 
-[Concierge Onboarding is Continuous Customer Development]({{site.blogroot}}/concierge-onboarding-is-continuous-customer-development/)
+[Concierge Onboarding is Continuous Customer Development]({{site.blogroot}}/2015/02/07/concierge-onboarding-is-continuous-customer-development/)
 
 
 # Create your concierge onboarding strategy
