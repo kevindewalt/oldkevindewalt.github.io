@@ -8,14 +8,14 @@ blogroot:         /blog
 relative_permalinks: true
 
 # Setup
-title:            Things That Don't Scale
-subtitle:         SoHelpful.io blog
+title:            All Aboard!
+subtitle:
 twitter_url:       <a href="https://twitter.com/kevindewalt" target="_blank">@kevindewalt</a> &amp; <a href="https://twitter.com/chiaracokieng" target="_blank">@chiaracokieng</a>.
 tagline:          'Concierge onboarding and other strategies to increase MRR for SaaS founders'
 headshot:         '/images/headshot.jpg'
 headshot2:        '/images/chiara.jpg'
 description:      ''
-sub_description:  'The secret strategies of SaaS sales & revenue growth'
+sub_description:  'SaaS onboarding and revenue growth'
 url:              http://kevindewalt.github.io
 baseurl:          /
 image_url:        /images
