@@ -1,3 +1,6 @@
+/* $primary-color: #AC4142; */
+/* $light-color: #FFDADB; */
+/* $lighter-color: #FFF4f5; */
 @import url(https://fonts.googleapis.com/css?family=Overlock:400,700,900,400italic,700italic,900italic);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,300,700,800);
 html {
@@ -6,6 +9,14 @@ html {
 .logo-font {
   font-family: "Overlock" !important;
   font-style: italic; }
+
+/* yellow-gold ovveride hyde.css red*/
+.theme-base-08 .sidebar {
+  background-color: #e87e04; }
+
+.theme-base-08 .content a,
+.theme-base-08 .related-posts li a:hover {
+  color: #e87e04; }
 
 @media (max-width: 48em) {
   .no-phone {
@@ -57,7 +68,7 @@ h2 {
   font-size: .6rem; }
 
 .subscribe-block {
-  background: #fff4f5;
+  background: #fafafa;
   border-radius: 5px;
   padding: 10px 15px; }
   .subscribe-block .email {
@@ -70,14 +81,14 @@ h2 {
     font-size: .8rem;
     -webkit-appearance: button;
     color: white;
-    background: #ac4142;
+    background: #e87e04;
     border: none;
     border-radius: 3px; }
 
 .share-page {
   text-align: center;
-  background: #ac4142;
-  color: #ffdadb;
+  background: #e87e04;
+  color: #e5e5e5;
   padding: 8px 15px;
   border-radius: 5px;
   margin: 7.5px 0; }

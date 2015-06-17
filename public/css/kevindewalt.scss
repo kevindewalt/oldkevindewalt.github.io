@@ -1,8 +1,16 @@
 //variables
 
-$primary-color: #AC4142;
-$light-color: #FFDADB;
-$lighter-color: #FFF4f5;
+
+$yellow-gold: #E87E04;
+$grey: #E5E5E5;
+$grey-cararra: #FAFAFA;
+
+$primary-color: $yellow-gold;
+/* $primary-color: #AC4142; */
+/* $light-color: #FFDADB; */
+$light-color: $grey;
+/* $lighter-color: #FFF4f5; */
+$lighter-color: $grey-cararra;
 $spacing-unit: 5px;
 
 //fonts
@@ -28,6 +36,18 @@ html {
     @content;
   }
 }
+
+//theme
+
+/* yellow-gold ovveride hyde.css red*/
+.theme-base-08 .sidebar {
+  background-color: $yellow-gold;
+}
+.theme-base-08 .content a,
+.theme-base-08 .related-posts li a:hover {
+  color: $yellow-gold;
+}
+
 
 // start content
 
