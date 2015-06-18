@@ -79,4 +79,4 @@ You want them to give you their time and attention? Prove it. Don’t make it ha
 
 If you want to get your customers on an onboarding call, let them self-schedule one with you.
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*
