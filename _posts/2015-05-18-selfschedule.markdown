@@ -8,7 +8,7 @@ author: "Chiara Cokieng"
 comments: true
 
 ---
-When I found out the [key to converting them is to get free trial subscribers on the phone](http://blog.sohelpful.io/about/index.html)... I started asking every sign up when they’re free to get on a call with me.
+When I found out the [key to converting them is to get free trial subscribers on the phone](http://blog.allaboard.io/about/index.html)... I started asking every sign up when they’re free to get on a call with me.
 
 In my mind, by asking when they’re free, I’m saying,
 

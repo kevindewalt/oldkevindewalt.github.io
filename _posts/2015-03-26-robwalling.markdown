@@ -10,7 +10,7 @@ photo_credit: <a href="https://twitter.com/robwalling">@robwalling</a>
 ---
 Rob Walling is the author of A Developer’s Guide to Launching a Startup. He co-hosts *Startups for the Rest of Us*, a popular startup podcast I really enjoy, hosts MicroConf, a self-funded startup conference. He also owns HitTail and Drip.
 
-When we started the [Things That Don’t Scale project](http://blog.sohelpful.io/things_dont_scale/index.html), the first person I thought of interviewing was Rob Walling, the founder of [Drip](https://www.getdrip.com/).
+When we started the [Things That Don’t Scale project](http://blog.allaboard.io/things_dont_scale/index.html), the first person I thought of interviewing was Rob Walling, the founder of [Drip](https://www.getdrip.com/).
 
 Anyway, Drip is an app that helps you do marketing automation to increase conversion for startups and software companies. It’s excellent -- easy to use and gets you results out of the box… But what stands out for me? Is what the software does not do.
 
