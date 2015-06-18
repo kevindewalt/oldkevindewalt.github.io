@@ -55,3 +55,5 @@ comments: true
 <p><strong>Sign up for it today</strong> &#8211; I’ll respond to your emails and work with you 1-on–1.</p>
 <p>&nbsp;</p>
 <p>Photo credit: <a class="owner-name truncate" title="Go to Justin Connors's photostream" href="https://www.flickr.com/photos/justinconnors/" data-track="attributionNameClick" data-rapid_p="47">Justin Connors</a></p>
+
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*

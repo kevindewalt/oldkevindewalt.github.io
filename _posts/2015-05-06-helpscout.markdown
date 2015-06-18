@@ -56,4 +56,4 @@ I think this is important for startups. Building anything to scale means you mis
 
 Learn everything there is to learn, and then automate.
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*

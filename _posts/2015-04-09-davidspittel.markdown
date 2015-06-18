@@ -82,4 +82,4 @@ I’d love to build a business with no cold calling. It would be less painful.
 
 But we couldn’t have gotten to where we are if we didn’t do the primitive stuff.
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/about">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*

@@ -146,4 +146,4 @@ Onboarding, especially the welcome email, is sales. Don't waste this critical op
 
 Customize this email to welcome your customers and let me know ([chiara@sohelpful.me](mailto:chiara@sohelpful.me)) how you do?
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/about">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*

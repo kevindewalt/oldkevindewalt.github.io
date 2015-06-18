@@ -148,4 +148,4 @@ Whatever you do, definitely get emails going. You can get up 3-5 emails really q
 
 This is the first interview on our Things That Don’t Scale series. Sign up below to get updates as soon as we publish new ones.
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*

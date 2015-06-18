@@ -154,4 +154,4 @@ You're probably thinking you're too busy to do this for all your customers yours
 
 So in the next post, we'll talk about how to hire your first customer success agent who can do <a href="http://blog.sohelpful.io/sohelpfulio/index.html">Concierge Onboarding</a> for you.
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*

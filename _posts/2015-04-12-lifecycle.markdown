@@ -87,4 +87,4 @@ We'll get more detailed in a future post. But the point is you should stop feeli
 
 Instead, get your customers on the phone to manually onboard them, and document what you're learning.
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*
