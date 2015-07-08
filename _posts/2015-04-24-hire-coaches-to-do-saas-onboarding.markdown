@@ -60,7 +60,7 @@ An onboarding specialist could have created the *Will* for me to change by helpi
 Hiring a teacher or coach is a lot easier than hiring a specialist. There are tons of qualified candidates worldwide looking for opportunities to work with tech companies.
 
 <br><br>
-*Your onboarding specialist needs tools too! SoHelpful.io is the world’s first product for “concierge” onboarding - [try it for free](http://try.sohelpful.io).*
+*Your onboarding specialist needs tools too! AllAboard.io is the world’s first product for “concierge” onboarding - [try it for free](http://try.allaboard.io).*
 
 <br>
 

@@ -8,7 +8,7 @@ author: "Chiara Cokieng"
 comments: true
 
 ---
-When I found out the [key to converting them is to get free trial subscribers on the phone](http://blog.sohelpful.io/about/index.html)... I started asking every sign up when they’re free to get on a call with me.
+When I found out the [key to converting them is to get free trial subscribers on the phone](http://blog.allaboard.io/about/index.html)... I started asking every sign up when they’re free to get on a call with me.
 
 In my mind, by asking when they’re free, I’m saying,
 
@@ -79,4 +79,4 @@ You want them to give you their time and attention? Prove it. Don’t make it ha
 
 If you want to get your customers on an onboarding call, let them self-schedule one with you.
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*

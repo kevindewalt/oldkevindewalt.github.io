@@ -115,4 +115,4 @@ Don't know how to qualify your trial customers? Can't decide if getting on a cal
 Just comment below or contact me at kevindewalt@kevindewalt.com or [@kevindewalt](http://twitter.com/kevindewalt).  We'll be happy to help you out.
 
 <br>
-*Ready to double your paid conversions? [Try SoHelpful.io](http://try.sohelpful.io) for free.*
+*Ready to double your paid conversions? [Try AllAboard.io](http://try.allaboard.io) for free.*

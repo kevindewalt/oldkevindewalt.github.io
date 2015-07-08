@@ -18,7 +18,7 @@ This is an actual message I just received from a SoHeplful.me customer.
 
 It illustrates a very common idea: That spending a few weeks putting out a bunch of lifecycle emails will solve all your conversion problems. It’s exactly how I used to think.
 
-One thing became very clear to me after interviewing successful SaaS companies for the [Things That Don't Scale](http://blog.sohelpful.io/things_dont_scale/) project:
+One thing became very clear to me after interviewing successful SaaS companies for the [Things That Don't Scale](http://blog.allaboard.io/things_dont_scale/) project:
 
 ###Successful SAAS companies do not start onboarding customers to their new app by writing lifecycle emails
 
@@ -60,7 +60,7 @@ They weren't optimizing for sales at all. They just wanted to understand what bu
 
 And they wanted to  check on them throughought the process.
 
-[Rob Walling](http://blog.sohelpful.io/blog/robwalling/), founder of Drip, said that at the beginning, he spent 20 hours/week manually onboarding customers.
+[Rob Walling](http://blog.allaboard.io/blog/robwalling/), founder of Drip, said that at the beginning, he spent 20 hours/week manually onboarding customers.
 
 He sent emails manually from Gmail. He recorded one-off screencasts. He screenshared. He even did stuff for customers.
 
@@ -70,13 +70,13 @@ It was all manual.
 
 So if you're thinking of spending the next few weeks writing a bunch of automated emails?
 
-Do something more productive: Manually onboard your customers by doing [Concierge Onboarding](http://blog.sohelpful.io/sohelpfulio/).
+Do something more productive: Manually onboard your customers by doing [Concierge Onboarding](http://blog.allaboard.io/allaboardio/).
 
 Try this:
 
 + Make a hypothesis of 3 things your customers would need to do to get onboarded
-+ Write a [welcome email](http://blog.sohelpful.io/blog/onboarding_emails/) offering to get on a call with them
-+ While on the call, do [GROW coaching](http://blog.sohelpful.io/blog/challenge-customers-during-your-saas-startups-onboarding/), and offer to follow up in 2 weeks
++ Write a [welcome email](http://blog.allaboard.io/blog/onboarding_emails/) offering to get on a call with them
++ While on the call, do [GROW coaching](http://blog.allaboard.io/blog/challenge-customers-during-your-saas-startups-onboarding/), and offer to follow up in 2 weeks
 + Schedule it in your calendar to follow up in 2 weeks to learn what they successfully did, where they got stuck, etc.
 
 Aim to do this with at least your next 25 customers.
@@ -87,4 +87,4 @@ We'll get more detailed in a future post. But the point is you should stop feeli
 
 Instead, get your customers on the phone to manually onboard them, and document what you're learning.
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*

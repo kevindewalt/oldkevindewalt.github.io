@@ -14,7 +14,7 @@ comments: true
 # How we became evangelists for Concierge Onboarding
 ### *Our eureka moment started with Cold Stone ice cream...*
 
-Well, sort of. It actually started a few hours earlier while reviewing our customer metrics for SoHelpful, our SaaS app.
+Well, sort of. It actually started a few hours earlier while reviewing our customer metrics for allaboard, our SaaS app.
 
 Paying customers were churning right off. Free trial users stopped converting into paying customers.
 
@@ -32,7 +32,7 @@ And we talked about ways we could get to know our new customers too - ways to â€
 
 ### We decided to talk to all new customers
 
-We got them on the phone, discussed their goals and challenges, and helped them understand how to use SoHelpful to achieve their goals.
+We got them on the phone, discussed their goals and challenges, and helped them understand how to use allaboard to achieve their goals.
 
 We learned there's even a term for it: Concierge Onboarding.
 
@@ -51,19 +51,19 @@ Here, you'll learn:
 + Coaching customers to change behavior and get the most out of your product
 + Hiring and training customer success reps to do concierge onboarding
 
-Manually onboarding each customer has been so effective for our startups that we built a tool to optimize and do it without a lot of time: [SoHeplful.io](http://try.sohelpful.io/)
+Manually onboarding each customer has been so effective for our startups that we built a tool to optimize and do it without a lot of time: [*All Aboard!*](http://try.allaboard.io/)
 
 Not ready for a tool? Start with some of our most popular blog posts:
 
-[Discovering the Minimum Path to Awesome with Rob Walling](http://blog.sohelpful.io/blog/robwalling/)
+[Discovering the Minimum Path to Awesome with Rob Walling](http://blog.allaboard.io/blog/robwalling/)
 
-[Challenge Customers During Your SaaS Startup's Onboarding](http://blog.sohelpful.io/blog/challenge-customers-during-your-saas-startups-onboarding/)
+[Challenge Customers During Your SaaS Startup's Onboarding](http://blog.allaboard.io/blog/challenge-customers-during-your-saas-startups-onboarding/)
 
-[Free trial? Ask for credit cards? The right strategy for your SaaS app](http://blog.sohelpful.io/2015/02/08/free-trial-ask-for-credit-cards-the-right-strategy-for-your-saas-app/)
+[Free trial? Ask for credit cards? The right strategy for your SaaS app](http://blog.allaboard.io/2015/02/08/free-trial-ask-for-credit-cards-the-right-strategy-for-your-saas-app/)
 
-[Some examples and best practices of effective welcome emails](http://blog.sohelpful.io/blog/onboarding_emails/)
+[Some examples and best practices of effective welcome emails](http://blog.allaboard.io/blog/onboarding_emails/)
 
-[Hire coaches to do SaaS onboarding](http://blog.sohelpful.io/blog/hire-coaches-to-do-saas-onboarding/)
+[Hire coaches to do SaaS onboarding](http://blog.allaboard.io/blog/hire-coaches-to-do-saas-onboarding/)
 
 ###2. No theory. Only truth and what works from the trenches.
 
@@ -87,7 +87,9 @@ Thereâ€™s already too much crap on the internet. So no listicles, fluff, and wri
 
 What are your challenges with conversions? Churn? What would be useful to you?
 
-Email us at [kevin@sohelpful.me](mailto:kevin@sohelpful.me) or [chiara@sohelpful.me](chiara@sohelpful.me)
+Email us at [kevin@allaboard.me](mailto:kevin@allaboard.me) or [chiara@allaboard.me](chiara@allaboard.me)
+
+Not ready to email us? Take our free course, [Double Your Trial-to-Paid Conversions with Concierge Onboarding](http://try.allaboard.io/concierge.html), instead.
 
 
 {% include signup_form.html %}

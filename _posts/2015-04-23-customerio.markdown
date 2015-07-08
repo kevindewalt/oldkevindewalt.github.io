@@ -85,4 +85,4 @@ The interaction in the beginning makes a difference.
 
 *By the way, Customer.io is looking for an Onboarding Specialist. Read [this](https://boards.greenhouse.io/customerio/jobs/60111?t=oyx74m#.VTkSWmRViko) if you're a technically savvy person that can help prospective customers get up and running in the product.*
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*

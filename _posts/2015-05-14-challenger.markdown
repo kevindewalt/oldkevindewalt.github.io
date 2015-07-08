@@ -72,4 +72,4 @@ You're so ahead of the market, your customer is not even looking for a solution 
 
 Special thanks to Tomasz Tunguz's excellent post for inspiring the connection between selling solutions and SaaS apps in [Challenging Your Customers During Your SaaS Startup's Sales Process](http://tomtunguz.com/challenger-sales-process/).
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*

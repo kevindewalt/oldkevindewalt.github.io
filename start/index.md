@@ -107,7 +107,7 @@ More:
 
 [How to tell if concierge onboarding is right for your business]({{site.blogroot}}/challenger/)
 
-[Concierge Onboarding is Continuous Customer Development](http://blog.sohelpful.io/2015/02/07/concierge-onboarding-is-continuous-customer-development/)
+[Concierge Onboarding is Continuous Customer Development](http://blog.allaboard.io/2015/02/07/concierge-onboarding-is-continuous-customer-development/)
 
 
 # Create your concierge onboarding strategy
@@ -167,7 +167,7 @@ Now take a few weeks to invest time in this group. I don't suggest you spend a l
 
 ### Now get ‘em on the phone: (coming soon)
 
-+ [Want to get a customer on the phone? Don't ask when he's free.](http://blog.sohelpful.io/blog/selfschedule/)
++ [Want to get a customer on the phone? Don't ask when he's free.](http://blog.allaboard.io/blog/selfschedule/)
 + Nobody wants to talk to salse or support. Positioning the call as a learning opportunity
 
 More:
@@ -185,7 +185,7 @@ More: [Grow coaching]({{site.blogroot}}/hire-coaches-to-do-saas-onboarding/).
 ### Don't fall into these mine fields (coming soon)
 
 + The art of the follow up power of pig-headed determination
-+ [Why product demos are costing you sales](http://blog.sohelpful.io/blog/nodemo/)
++ [Why product demos are costing you sales](http://blog.allaboard.io/blog/nodemo/)
 + Nobody wants to get you to coach them either...
 
 

@@ -4,12 +4,12 @@ layout: post
 title: "Concierge Onboarding is Continuous Customer Development"
 date: 2015-02-07T15:33:32+08:00
 post_image: train_small.jpg
-keywords: "sohelpful.io, sohelpful.me"
+keywords: "sohelpful.io, sohelpful.me, allaboard.io"
 comments: true
 ---
 <p>Do you run a SAAS subscription app (a website that charges a recurring fee, e.g. MailChimp )? You already know a good onboarding process is critical for getting customers to use (and pay for) your product. Many successful SAAS companies are now using “concierge” onboarding.</p>
-<p>At SoHelpful we’ve been doing concierge onboarding for the last two years. It has worked so well that other companies are asking me to teach them how to do it.</p>
-<p>I&#8217;m even doing a new free email course called <a href="http://try.sohelpful.me/concierge.html">Double Your Paid Conversions with Concierge Onboarding</a> &#8211; you can sign up for it right now.</p>
+<p>At [*All Aboard!*](http://blog.allaboard.io/about/index.html) we’ve been doing concierge onboarding for the last two years. It has worked so well that other companies are asking me to teach them how to do it.</p>
+<p>I&#8217;m even doing a new free email course called <a href="http://try.allaboard.me/concierge.html">Double Your Paid Conversions with Concierge Onboarding</a> &#8211; you can sign up for it right now.</p>
 <h2 id="benefitsofconciergeonboardingforsubscriptionservices">Benefits of concierge onboarding for subscription services</h2>
 <ul>
 <li>Increase conversions to paid subscribers. Customer.io found it doubled theirs.</li>
@@ -27,7 +27,7 @@ comments: true
 <p>Discuss it with your team and document it. This exercise is great for getting the entire company engaged with the real problems you’re solving for customers.</p>
 <h2 id="step2-getthecustomeronthephonenoteasy">Step 2 &#8211; Get the customer on the phone (not easy)</h2>
 <p>Here is where we see most SAAS companies blow it. If you have a phone number you can try calling them directly, but 75% of the time (or more) you’ll get a voicemail or interrupt someone. You best bet is to try and get the customer to schedule a call with you.</p>
-<p>Unfortunately … they will probably be reluctant to do this. The key is to position the call as an opportunity to teach/help/train the new customer so they want to get on a call. I cover this in detail <a href="http://try.sohelpful.me/concierge.html">in the course</a>, but here some examples:</p>
+<p>Unfortunately … they will probably be reluctant to do this. The key is to position the call as an opportunity to teach/help/train the new customer so they want to get on a call. I cover this in detail <a href="http://try.allaboard.io/concierge.html">in the course</a>, but here some examples:</p>
 <h4 id="bad-lookslikeformmessagefromsalesorsupport">Bad concierge onboarding email &#8211; looks like form message from sales or support</h4>
 <blockquote><p>Subject: Welcome to SuperCoolApp</p>
 <p>Hello Tim,</p>
@@ -51,7 +51,9 @@ comments: true
 <p>Customer Development is just one benefit of concierge onboarding.</p>
 <p>How do I double conversions to paying customers? Reduce churn? When do I contact customers? What do I say? What is GROW coaching and how can I do it? When should I follow-up with customers and what should I say?</p>
 <p>And … how can I do concierge onboarding without spending a ton of my time? How do I hire and train someone to do this?</p>
-<p>All topics I cover in <a href="http://try.sohelpful.me/concierge.html">Double your paid conversions with concierge onboarding</a>.</p>
+<p>All topics I cover in <a href="http://try.allaboard.io/concierge.html">Double your paid conversions with concierge onboarding</a>.</p>
 <p><strong>Sign up for it today</strong> &#8211; I’ll respond to your emails and work with you 1-on–1.</p>
 <p>&nbsp;</p>
 <p>Photo credit: <a class="owner-name truncate" title="Go to Justin Connors's photostream" href="https://www.flickr.com/photos/justinconnors/" data-track="attributionNameClick" data-rapid_p="47">Justin Connors</a></p>
+
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*

@@ -9,4 +9,4 @@ photo_credit: <a href="LINK">WHO THE HELL</a>
 ---
 text
 
-*What is Concierge Onboarding? Read about the <a href="http://blog.sohelpful.io/sohelpfulio/index.html">SoHelpful.io Project</a>.*
+*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*

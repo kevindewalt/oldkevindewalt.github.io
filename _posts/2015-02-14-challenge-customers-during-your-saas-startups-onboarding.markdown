@@ -34,7 +34,7 @@ The customer is now more likely to cancel in a few months or (worse yet) never c
 
 ## Correct onboading: challenge them to achieve goals
 
-We at SoHelpful use the **GROW** coaching technique to do our concierge onboarding calls. We take control (in a happy super-nice non-judo way!) by confirming the customers' **G**oals, helping them assess their current **R**eality, see potential **O**bstacles to achieving success and creating the **W**ill for them to change.
+We at [*All Aboard!*](http://blog.allaboard.io/about/index.html) use the **GROW** coaching technique to do our concierge onboarding calls. We take control (in a happy super-nice non-judo way!) by confirming the customers' **G**oals, helping them assess their current **R**eality, see potential **O**bstacles to achieving success and creating the **W**ill for them to change.
 
 The best way to start a call is to get agreement on the customer's **G**oals. 99% of the time you can start the call by just confirming them - since you most likely already know:
 
