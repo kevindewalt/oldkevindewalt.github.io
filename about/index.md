@@ -87,7 +87,7 @@ There’s already too much crap on the internet. So no listicles, fluff, and wri
 
 What are your challenges with conversions? Churn? What would be useful to you?
 
-Email us at [kevin@allaboard.me](mailto:kevin@allaboard.me) or [chiara@allaboard.me](chiara@allaboard.me)
+Email us at [kevin@allaboard.io](mailto:kevin@allaboard.io) or [chiara@allaboard.io](chiara@allaboard.io)
 
 Not ready to email us? Take our free course, [Double Your Trial-to-Paid Conversions with Concierge Onboarding](http://try.allaboard.io/concierge.html), instead.
 

@@ -100,3 +100,6 @@ DEPENDENCIES
   github-pages
   jekyll
   octopress (~> 3.0.0.rc)
+
+BUNDLED WITH
+   1.10.3
