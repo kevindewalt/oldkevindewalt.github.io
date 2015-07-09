@@ -35,9 +35,19 @@ We had an idea for a new product based on what we learned from our SoHelpful cus
 
 I hypothesized a solution but needed to validate it with real customers. At the time I was living in Beijing and China and needed to quickly schedule a few dozen conversations to see if our idea had merit.  I needed to talk to other SaaS founders and VPs of Customer Success - people halfway around the world who were just as busy as me.
 
+<!--- 
+
+not super noticeable... but the next paragraph was hard to understand -- 
+
+why does interviews taking more time than an MVP create a need for a good reason to get on a call with you? 
+
+Is it because you wanted to reach people through referrals and to get a referral, you need a better reason than to do interviews? Not sure what it has to do with the MVP...
+
+---> 
+
 I realized that finding enough of them, scheduling and doing Skype interviews was going to take me longer than hacking the MVP. I needed to give these potential customers a good reason to want to get on a call with me.  
 
-In the words of Neil Rackham (Spin Selling) I needed to offer a “conversation so compelling they would be willing to pay for it.”
+In the words of Neil Rackham (SPIN Selling) I needed to offer a “conversation so compelling they would be willing to pay for it.”
 
 #### A conversation they might pay for
 
@@ -49,7 +59,7 @@ I sent about 50 warm emails to friends and colleagues asking for references. Her
 
 Hey Jack,
 
-Great catching up over the holidays, hope you and the family are well
+Great catching up over the holidays, hope you and the family are well.
 
 If you know anyone who is also a SaaS founder (and products sell around the same price point as yours) I would appreciate an intro.  Here are a few sentences you can send them, feel free to edit away:
 
@@ -68,18 +78,18 @@ The experiment worked and I was able to line up 1-2 meetings a day for a few wee
 
 #### How we conducted the calls
 
-I would start the calls by doing sending them a generic presentation about concierge onboarding strategies.
+I would start the calls by sending them a generic presentation about concierge onboarding strategies.
 
 [Here it is](https://docs.google.com/presentation/d/1cDeg04ko2qTxPhvd2HvquRd45qDHDH7DyimCjPPhZV0/edit?usp=sharing) in case you want to copy it.
 
- I would use the slides to guide the discussions, but mostly we talked about their business, how they worked, what did/didn’t work for them, their goals - the same information I wanted to learn from a Customer Development interview.
+I would use the slides to guide the discussions, but mostly we talked about their business, how they worked, what did/didn’t work for them, their goals - the same information I wanted to learn from a Customer Development interview.
 
-#### We lead TO our solution
+#### We led TO our solution
 
-The best part? By educating customers on a better way to work we were positioning *All Aboard!* as a solution to helping them achieve their greater goals without having to “sell” the anything. A few of these conversations lead to our initial customers.
+The best part? By educating customers on a better way to work we were positioning *All Aboard!* as a solution to helping them achieve their greater goals without having to “sell” anything. A few of these conversations led to our initial customers.
 
 ## Bottom line: Don’t ask for meetings. Offer to teach them a better way to work
 
-Offering to teach customers is a great way to validated a B2B SaaS product idea. A customer who signs up for your training is offering to trade you the most valuable currency they have: their time.  That action alone indicates they’re looking for a new way to solve their problems.
+Offering to teach customers is a great way to validate a B2B SaaS product idea. A customer who signs up for your training is offering to trade you the most valuable currency they have: their time.  That action alone indicates they’re looking for a new way to solve their problems.
 
 Best of all, you’ll jump to the head of the line of everyone else looking to “interview” them about their problems.
