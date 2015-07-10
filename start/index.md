@@ -7,8 +7,9 @@ author: "Chiara Cokieng"
 comments: true
 ---
 
+**Update**: If you're interested in what we talk about on this blog, the absolute best place to start is with our course. Learn how SaaS founders, product marketers, and Customer Success VPs do concierge onboarding to increase trial-to-paid conversions and reduce churn in our <a href="http://try.allaboard.io/concierge.html">free concierge onboarding course</a>.
 
-{% include signup_form.html %}
+---
 
 This site is for founders, customer success &amp; onboarding specialists at B2B SaaS apps.
 

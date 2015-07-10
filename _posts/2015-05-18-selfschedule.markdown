@@ -79,4 +79,6 @@ You want them to give you their time and attention? Prove it. Don’t make it ha
 
 If you want to get your customers on an onboarding call, let them self-schedule one with you.
 
-*What is Concierge Onboarding? Read about <a href="http://blog.allaboard.io/about/">All Aboard!</a>*
+---
+
+*What the heck is Concierge Onboarding? Learn how SaaS founders, product marketers, and Customer Success VPs are doing it to increase trial-to-paid conversions and reduce churn in our <a href="http://try.allaboard.io/concierge.html">free concierge onboarding course</a>.*

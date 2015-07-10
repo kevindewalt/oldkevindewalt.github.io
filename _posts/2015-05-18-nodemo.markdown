@@ -72,3 +72,7 @@ Some companies with top sales organizations offer demos. So what's the deal?
 Sure ... they OFFER demos - but what actualy happens on the demo itself? They're probably using the demo offer as a way of filling the front-end of their sales pipeline. When they get qualified leads they take charge of the sale just like I describe above.
 
 They're not starting the conversation by talking about their products - and you shouldn't either.
+
+---
+
+*What the heck is Concierge Onboarding? Learn how SaaS founders, product marketers, and Customer Success VPs are doing it to increase trial-to-paid conversions and reduce churn in our <a href="http://try.allaboard.io/concierge.html">free concierge onboarding course</a>.*
