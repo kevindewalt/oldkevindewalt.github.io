@@ -50,25 +50,25 @@ You need to help them accomplish the number one thing that will eliminate that p
 
 How do you use that one feature that scratches the itch? The thing that made them want to get the app in the first place.
 
-ex — Gmail
+**Example: Gmail**
 
-I’ve never set up an email server since I got it. Because Gmail makes it so easy to do. All I have to do is buy a domain name and point to their servers. I don’t worry about my inbox being hacked, going offline, etc. Email is really hard to set up and use for normal people… That’s the number one pain point.  Gmail makes it as easy as possible.
+I’ve never set up an email server since I started using Gmail. All I have to do is buy a domain name and point to their servers. I don’t worry about my inbox being hacked, going offline, etc. Email is really hard to set up and use for normal people… That’s the number one pain point.  Gmail makes it as easy as possible.
 
-**What if you don't know what that feature is?** Ask your users: What is the number one thing that solves the problem? 
+**What if you don't know what that feature is?** Ask your users: What is the number one thing that solves the problem?
 
 Then you can create automated emails, a concierge program, or even a landing page telling people: this is the pain point we solve.
 
-There’s *always* one major pain point. 
+There’s *always* one major pain point.
 
-Focus and optimize your onboarding to solve it well. 
+Focus and optimize your onboarding to solve it well.
 
 ##Optimizing intelligently
 
-A lot of people do cargo cult optimization. They do split tests and best practices... But they don’t test, they just believe it works. 
+A lot of people do cargo cult optimization. They do split tests and best practices... But they don’t test, they just believe it works.
 
 Years ago, an ebook came out talking about the 50 split tests on your sales page you have to do today. Things like making your background color blue converts 10% more.
 
-As a consultant, I optimize my clients' lead generation, and internal and software processes. We optimize based on data, so we tested it. It made the page look like crap and conversion dropped. 
+As a consultant, I optimize my clients' lead generation, and internal and software processes. We optimize based on data, so we tested it. It made the page look like crap and conversion dropped.
 
 Other people followed this book exactly. They didn't look at data. They just took the info and used it.
 
@@ -83,7 +83,7 @@ If your traffic is low, you can't do small things like change your background co
 
 For our clients who get 20,000 hits/day, we do split tests every 20 minutes. A small difference results in huge gains very quickly.
 
-But Summit Evergeen doesn't get a thousand sign ups a day. If we made the background blue, we would not have seen a significant difference. So we tested including a demo video. We very quickly saw huge gains in sign ups. It was significant because it was such a big change. 
+But Summit Evergeen doesn't get a thousand sign ups a day. If we made the background blue, we would not have seen a significant difference. So we tested including a demo video. We very quickly saw huge gains in sign ups. It was significant because it was such a big change.
 
 ##Concierge: The evolution from onboarding to paid consulting, and beyond
 
@@ -91,17 +91,17 @@ Speaking of Summit Evergreen, during the first six months, we did concierge onbo
 
 ###The first six months
 
-We imported content for people. And we found they needed a lot more than our free services. They wanted content loaded. And then styled. We'd do all this extra stuff for them. 
+We imported content for people. And we found they needed a lot more than our free services. They wanted content loaded. And then styled. We'd do all this extra stuff for them.
 
 Doing concierge onboarding is a huge learning experience, especially when you're just launching. **The more information you can get, the better your product is going to be.** But you don’t want to do it with everyone. I'm talking about high touch concierge service, not a 10-minute demo.
 
-We dont regret it, of course. It made us understand how people use our product in a way we otherwise wouldn't have.
+We don't regret it, of course. It made us understand how people use our product in a way we otherwise wouldn't have.
 
-But it's not something you can do for free for long, especially without a long term contract. 
+But it's not something you can do for free for long, especially without a long term contract.
 
 ###From concierge onboarding to consulting
 
-We now have paid, tiered concierge service. 
+We now have paid, tiered concierge service.
 
 Now when you sign up for Summit Evergeen, we ask if you want to do it yourself for free (we'll send you sample content). Or if  you want us to import your existing content, you can get a full package, including design, etc.
 
@@ -111,7 +111,7 @@ Infusionsoft does this well. They charge a $2000 fee for consulting and concierg
 
 ###Continuous concierge onboarding to get new feature ideas
 
-We continue to do concierge with bigger customers. They turn into a lot of feature ideas. 
+We continue to do concierge with bigger customers. They turn into a lot of feature ideas.
 
 They ask for features and systems not yet in Summit Evergeen, that other customers tend to want later. Now we have things like required homework, subscription support, continuing monthly programs, and lots of integrations.
 
@@ -127,7 +127,7 @@ For other customers, we still do standard email concierge. They also go through 
 
 I stop looking at them when they become irrelevant to me. Make sure you don't overwhelm people.
 
-What you email users should be directly beneficial to them. 
+What you email users should be directly beneficial to them.
 
 **You shouldn't be distracting people, but helping them achieve goals.**
 
@@ -145,9 +145,9 @@ A common lifecycle email is:
 
 That doesn't work for me. Because I don't care. You're coming at it from a me, me, me perpsective. *We’re so important, we need to get them to come back.*
 
-Look at Facebook. They're not telling you, "Hey, what are you doing? You're not visiting us, what's wrong with you?" 
+Look at Facebook. They're not telling you, "Hey, what are you doing? You're not visiting us, what's wrong with you?"
 
-But *John liked your post.* It makes you want to go back in. For Summit Evergeen, we send messages like, "Hey, did you know 10 people saw your site? 
+But *John liked your post.* It makes you want to go back in. For Summit Evergeen, we send messages like, "Hey, did you know 10 people saw your site?
 
 Why would the customer want to log back in? It's not *come back!*, but *here are the benefits you'll get if you spend time getting back into the system*.
 
