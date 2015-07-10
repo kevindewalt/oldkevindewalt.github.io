@@ -2,7 +2,7 @@
 layout: post
 title: "Customer Development for SaaS: Do training, not interviews"
 date: 2015-07-09T11:54:08-04:00
-post_image: SteveBlank.jpg
+post_image: steve_small.jpg
 keywords: "Customer Development, saas, spin selling"
 author: "Kevin Dewalt"
 comments: true
