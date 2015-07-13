@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /thanks/
+sitemap: false
+title: You're confirmed.
 
 ---
-
-#You're confirmed.
 
 Hey, Chiara here. Thanks for signing up!
 
