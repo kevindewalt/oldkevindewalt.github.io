@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making your product a part of your customer's life with Keith Perhac"
-post_image: keithperhac.jpeg
+post_image: keithperhac.jpg
 keywords: ""
 author: "Chiara Cokieng"
 comments: true
