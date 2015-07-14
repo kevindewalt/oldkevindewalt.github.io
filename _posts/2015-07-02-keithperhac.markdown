@@ -8,7 +8,7 @@ comments: true
 photo_credit: <a href="https://twitter.com/harisenbon79">Keith Perhac</a>
 ---
 
-I've always marveled at Ramit Sethi's automated sales machine over at I Will Teach You To Be Rich. *How does he sell infoproducts at such a personal level, at scale?* Well, I just discovered the brains and technology behind it, [Keith Perhac](http://keithperhac.com/).
+I've always marveled at Ramit Sethi's automated sales machine over at I Will Teach You To Be Rich. *How does he sell infoproducts at such a personal level, at scale?* Well, I just discovered the brains behind his marketing technology, [Keith Perhac](http://keithperhac.com/).
 
 I first heard about Keith in an interview with Patrick McKenzie about [using concierge onboarding to increase conversions and decrease churn of SaaS businesses](http://www.kalzumeus.com/2014/06/19/kalzumeus-podcast-episode-7-launching-new-products/), among other topics.
 
@@ -81,7 +81,7 @@ If your traffic is low, you can't do small things like change your background co
 + Big traffic = small tweaks
 + Small traffic = big changes
 
-For our clients who get 20,000 hits/day, we do split tests every 20 minutes. A small difference results in huge gains very quickly.
+For our clients who get 20,000 hits/day, we do split tests at a rapid pace. A small difference results in huge gains very quickly.
 
 But Summit Evergeen doesn't get a thousand sign ups a day. If we made the background blue, we would not have seen a significant difference. So we tested including a demo video. We very quickly saw huge gains in sign ups. It was significant because it was such a big change.
 
