@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to build a customer community on Slack"
+date: 2015-07-17T08:45:15-04:00
 post_image: slack.png
 keywords: "slack, community, sharing"
 author: "Kevin Dewalt"
