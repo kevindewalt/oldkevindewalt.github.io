@@ -10,7 +10,7 @@ photo_credit: <a href="https://www.flickr.com/photos/cevincat/">Kevin Fitz</a>
 ---
 I recently described a more effective technique for getting high-quality customer insight in [Customer Development for SaaS: Do training, not interviews]({{ site.blogroot}}/customer-development-teaching/).
 
-However, you still have to *find* customers and offer them training. Here is a hack we used to get meet more customers and validate demand for *All Aboard!* using drip email courses.
+However, you still have to *find* customers and offer them training. Here is a hack we used to meet more customers and validate demand for *All Aboard!* using drip email courses.
 
 ## Why use email courses for customer development
 
