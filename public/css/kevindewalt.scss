@@ -69,11 +69,14 @@ h2.subtitle {
 }
 
 h2 {
-  margin-top: 2rem;
+  margin-top: 3.0rem;
   @include mq-phone {
     font-size: 1.3rem;
   }
+}
 
+h3 {
+  margin-top: 2.1rem;
 }
 
 .content {
@@ -84,6 +87,10 @@ h2 {
   @include mq-phone {
     font-size: 1.8rem;
   }
+}
+
+img {
+  margin: 30px 0;
 }
 
 .photo-credit {
@@ -160,7 +167,7 @@ h2 {
     color: $light-color;
     padding: 8px 15px;
     border-radius: 5px;
-    margin: 1.5 * $spacing-unit 0;
+    margin: 3.0rem 0 5.0rem 0;
 
     a.sharelink {
         font-weight: 700;

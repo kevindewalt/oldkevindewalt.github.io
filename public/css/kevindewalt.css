@@ -31,10 +31,13 @@ h2.subtitle {
   margin-top: 1rem; }
 
 h2 {
-  margin-top: 2rem; }
+  margin-top: 3.0rem; }
   @media (max-width: 48em) {
     h2 {
       font-size: 1.3rem; } }
+
+h3 {
+  margin-top: 2.1rem; }
 
 .content {
   padding-top: 3rem; }
@@ -42,6 +45,9 @@ h2 {
 @media (max-width: 48em) {
   .post-title {
     font-size: 1.8rem; } }
+
+img {
+  margin: 30px 0; }
 
 .photo-credit {
   font-size: .7rem; }
@@ -91,7 +97,7 @@ h2 {
   color: #e5e5e5;
   padding: 8px 15px;
   border-radius: 5px;
-  margin: 7.5px 0; }
+  margin: 3.0rem 0 5.0rem 0; }
   .share-page a.sharelink {
     font-weight: 700;
     color: #fff;
