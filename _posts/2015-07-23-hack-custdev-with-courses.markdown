@@ -20,7 +20,7 @@ In sales we ask customers to take steps, and a free email course gives them an e
 
 Additionally, courses attract customers who
 
-1. know the have a problem,
+1. know they have a problem,
 1. are looking for a new way to solve it, and
 1. think you might be able to solve it
 
@@ -86,7 +86,7 @@ I learned this from Dan Martel - this is how you get people to your course.
 
 Get a simple CRM (Streak is fine) or start adding your friends' email addresses to a spreadsheet. Every day send 10 of them a personal, hand-typed email asking for help spreading the word about your course on social media.
 
-Make it drop-dread simple for them with click-to-tweet or pre-written copy they can forward. I spend about 15 minutes on each email, so this takes 2-3 hours/day.
+Make it drop-dead simple for them with click-to-tweet or pre-written copy they can forward. I spend about 15 minutes on each email, so this takes 2-3 hours/day.
 
 
 ### Step 6 - Train them - and write down a summary of what you discuss
