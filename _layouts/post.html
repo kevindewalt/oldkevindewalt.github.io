@@ -10,9 +10,11 @@ layout: default
   <div id="twitter-plug">
     {% include share-page.html %}
   </div>
-  {% if page.comments %}
-    {% include disqus.html %}
-  {% endif %}
+  <div class="no-phone">
+    {% if page.comments %}
+      {% include disqus.html %}
+    {% endif %}    
+  </div>
 </div>
 
 {% include signup_form.html %}

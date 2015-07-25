@@ -78,7 +78,7 @@ This email should have the following:
 
 You will learn a lot just by reading their replies. Here is the exact email I used.
 
-![Good Welcome Email](/images/actual_final_email.png)
+![Good Welcome Email](/images/actual_final_email2.jpg)
 
 ### Step 5 - Email 10 friends a day asking for help to spreading the word
 
