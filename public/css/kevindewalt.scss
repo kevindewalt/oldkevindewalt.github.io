@@ -138,14 +138,18 @@ img {
 
 //mailchimp
 
+#post-signup-form{
+  margin-bottom: 3.0rem;
+}
+
 .subscribe-block {
- background: $lighter-color;
+ background: $light-color;
  border-radius: 5px;
  padding: 10px 15px;
 
  .email {
    width: 20rem;
-   font-size: .8rem;
+   font-size: 1.2rem;
    @include mq-phone {
      width: 15rem;
    }
@@ -153,9 +157,12 @@ img {
  }
 
  .button {
-   font-size: .8rem;
+   font-size: 20px;
+   padding: 8px 15px;
+   margin-left: 10px;
    -webkit-appearance: button;
    color: white;
+   font-weight: 700;
    background: $primary-color;
    border: none;
    border-radius: 3px;
@@ -171,7 +178,7 @@ img {
     color: $light-color;
     padding: 8px 15px;
     border-radius: 5px;
-    margin: 3.0rem 0 5.0rem 0;
+    margin: 3.0rem 0 3.0rem 0;
 
     a.sharelink {
         font-weight: 700;
