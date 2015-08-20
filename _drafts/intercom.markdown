@@ -16,7 +16,7 @@ I've been talking to many of the people in our [concierge onboarding course](htt
 
 If that sounds like you, great news. Intercom is a great place to do concierge onboarding in. 
 
-In fact, internally and for selected customers, we're currently using an Intercom version of All Aboard! If you email me, I will help you set up Intercom so you can do concierge onboarding inside it, the way we lay out in the [course](http://try.allaboard.io/concierge.html).
+In fact, internally and for selected customers, we're currently using an Intercom version of All Aboard! If you [email me](mailto:onboarding-course@allaboard.io), I will help you set up Intercom so you can do concierge onboarding inside it, the way we lay out in the course.
 
 For now, I want to show you the best way to start getting value out of Intercom.
 
@@ -95,6 +95,8 @@ Ideally, you end by linking him to your scheduler such as https://allaboard.io/c
 **Take a few seconds to tag your customers, create a segment, and focus on your highest-value customers.** The best salespeople know this. It's so obvious to them, but it's underrated in the automation-obsessed SaaS world.
 
 Trust me, identifying customers most likely to get value from using your app is a very profitable activity. That's why Intercom invests so much in enabling you to do it. Take advantage of it.
+
+If you want more, [email me](mailto:onboarding-course@allaboard.io) and I will help you set up Intercom so you can do concierge onboarding inside it, the way we lay out in the course.
 
 ---
 
