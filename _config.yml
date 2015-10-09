@@ -10,7 +10,7 @@ relative_permalinks: true
 # Setup
 title:            All Aboard!
 subtitle:
-twitter_url:       <a href="https://twitter.com/kevindewalt" target="_blank">@kevindewalt</a> &amp; <a href="https://twitter.com/chiaracokieng" target="_blank">@chiaracokieng</a>.
+twitter_url:        by <a href="https://twitter.com/kevindewalt" target="_blank">@kevindewalt</a>
 tagline:          'Concierge onboarding and other strategies to increase MRR for SaaS founders'
 headshot:         '/images/headshot.jpg'
 headshot2:        '/images/chiara.jpg'
