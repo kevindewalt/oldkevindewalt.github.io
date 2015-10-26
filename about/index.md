@@ -1,6 +1,6 @@
 ---
 layout: page
-sitemap: true
+sitemap: false
 title: About
 page_image: coldstone.jpg
 keywords: ""

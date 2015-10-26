@@ -23,7 +23,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="no-phone sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <!--a class="no-phone sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a-->
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -39,8 +39,9 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <a class="sidebar-nav-item" href="http://try.allaboard.io/concierge.html" target='_blank'>Free course</a>
       <a class="sidebar-nav-item" href="http://try.allaboard.io" target='_blank'>Try <em>All Aboard!</em> for free</a>
+      <a class="sidebar-nav-item" href="http://try.allaboard.io" target='_blank'>About</a>
+      <a class="sidebar-nav-item" href="http://try.allaboard.io/concierge.html" target='_blank'>Free course</a>
     </nav>
     <small class="copyright no-phone">&copy; {{ site.time | date: '%Y' }}. All rights reserved, ManyWheels Inc.</small>
   </div>

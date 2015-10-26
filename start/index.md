@@ -1,6 +1,6 @@
 ---
 layout: page
-sitemap: true
+sitemap: false
 title: New? Start here
 keywords: ""
 author: "Chiara Cokieng"
