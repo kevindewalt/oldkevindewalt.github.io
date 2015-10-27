@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Customer Development interviews are no longer worth the effort"
+date: 2015-10-27T19:15:04-04:00
 post_image: blank_stare.jpg
 keywords: ""
 author: "Kevin Dewalt"
