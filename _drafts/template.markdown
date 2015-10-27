@@ -3,7 +3,7 @@ layout: post
 title: "TITLE"
 post_image: IMAGE.jpg
 keywords: ""
-author: "Chiara Cokieng"
+author: "Kevin Dewalt"
 comments: true
 photo_credit: <a href="LINK">WHO THE HELL</a>
 ---
