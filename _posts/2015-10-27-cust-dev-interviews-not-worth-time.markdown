@@ -2,11 +2,11 @@
 layout: post
 title: "Customer Development interviews are no longer worth the effort"
 date: 2015-10-27T19:15:04-04:00
-post_image: blank_stare.jpg
+post_image: mantou.jpg
 keywords: ""
 author: "Kevin Dewalt"
 comments: true
-photo_credit: <a href="https://www.flickr.com/photos/shandilee/">blank by Shandi-lee Cox</a>
+photo_credit: Me! This is my cat, 馒头（man tou）
 ---
 
 A few days ago we re-launched <em>All Aboard!</em> as [Automated call scheduling with your Intercom Users](http://try.allaboard.io/). After each pivot I reflect on what we learned, what I did well - and what I did poorly.
