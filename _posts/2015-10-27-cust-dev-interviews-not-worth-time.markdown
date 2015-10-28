@@ -8,7 +8,6 @@ author: "Kevin Dewalt"
 comments: true
 photo_credit: Me! This is my cat, 馒头（man tou）
 ---
-
 A few days ago we re-launched <em>All Aboard!</em> as [Automated call scheduling with your Intercom Users](http://try.allaboard.io/). After each pivot I reflect on what we learned, what I did well - and what I did poorly.
 
 I reviewed our Customer Development activities and came up with the following conclusions.
@@ -95,6 +94,14 @@ My free course, [Double your trial-to-paid conversions with
 concierge onboarding](http://try.allaboard.io/concierge.html)
 
 [Hack your customer development with a drip email course]({{ site.blogroot}}/hack-custdev-with-courses/)
+
+### So ... why the kitten photo?
+
+I originally wanted to show a picture of a customer's blank stare - the implication being that the entrepreneur isn't getting much out of the discussion. So I picked [this picture](https://flic.kr/p/r1R6or) and my readers HATED it.
+
+So I updated it with a picture of my can, Man Tou. He is a 4-month-old Scottish Fold kitten.
+
+You just can't hate a kitten, can you?
 
 ---
 
