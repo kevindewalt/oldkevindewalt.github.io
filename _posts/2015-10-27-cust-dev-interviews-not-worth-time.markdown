@@ -8,7 +8,7 @@ author: "Kevin Dewalt"
 comments: true
 photo_credit: Me! This is my cat, 馒头（man tou）
 ---
-UPDATE 10/30: This post prompted some good discussions below and I encourage you to read them. My only point (which I should have made clearer) is that 1 tactic of Customer Development - doing problem/solution interviews to validate product ideas - I no longer find an effective way to engage customers. We get more insight faster by doing training or **quickly** building products and trying to sell them. If you disagree, I'd really like to hear about your recent experience rather than theory. Also ... my comments about landing pages are a non-sequitur ... not really worth your consideration.
+<em>UPDATE 10/30: This post prompted some good discussions below and I encourage you to read them. My only point (which I should have made clearer) is that 1 tactic of Customer Development - doing problem/solution interviews to validate product ideas - I no longer find an effective way to engage customers. We get more insight faster by doing training or **quickly** building products and trying to sell them. If you disagree, I'd really like to hear about your recent experience rather than theory. Also ... my comments about landing pages are a non-sequitur ... not really worth your consideration.</em>
 
 
 A few days ago we re-launched <em>All Aboard!</em> as [Automated call scheduling with your Intercom Users](http://try.allaboard.io/). After each pivot I reflect on what we learned, what I did well - and what I did poorly.
