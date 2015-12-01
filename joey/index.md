@@ -20,7 +20,7 @@ Part of my wind-down process for All Aboard is making sure my team lands at a gr
 
 (that's Joey on the right in case you're wondering ...)
 
-You can read Joey's **LinkedIn Profile????** here. But let me take a moment to share my personal experience from working with him for nearly 2 years.
+You can read Joey's LinkedIn Profile [here](https://www.linkedin.com/in/josemarimendoza). But let me take a moment to share my personal experience from working with him for nearly 2 years.
 
 Joey worked with me day-to-day as the primary dev lead building SoHelpful and All Aboard. He lives in Manila and most of our conversations were over Skype, Slack, or GitHub.
 
@@ -45,7 +45,7 @@ Bottom line: Joey can - and will - learn anything you throw at him.
 
 ## Want to talk to Joey about getting his help?
 
-If you're interested in hiring Joey please contact him at **email???**
+If you're interested in hiring **Joey please email him at jose.mari.mendoza@gmail.com**.
 
 I would ask that you only contact him if you have a specific project and the budget to pay senior-level developer rates in Manila.
 
