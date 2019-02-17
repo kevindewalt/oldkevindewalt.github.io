@@ -1,7 +1,0 @@
-#!/bin/bash -x
-
-echo -e "\nRunning Unit Tests..."
-bundle exec rake test
-
-echo -e "\nChecking Code Style..."
-script/fmt
