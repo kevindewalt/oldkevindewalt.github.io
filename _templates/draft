@@ -1,8 +1,0 @@
----
-layout: {{ layout }}
-title: {{ title }}
-post_image: image_name.jpg
-keywords: ""
-author: ""
-photo_credit: <a href="">Change Me</a>
----
